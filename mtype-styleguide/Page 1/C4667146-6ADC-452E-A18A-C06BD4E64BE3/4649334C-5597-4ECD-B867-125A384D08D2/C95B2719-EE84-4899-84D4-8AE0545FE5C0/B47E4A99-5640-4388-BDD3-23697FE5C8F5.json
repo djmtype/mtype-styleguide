@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B47E4A99-5640-4388-BDD3-23697FE5C8F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8498F15B-F69E-4072-BCA1-7C6E4211A691",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3282CEDA-F7D8-41E1-82BE-473D21507B04",
+    "height": 49,
+    "width": 217,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/label+icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F375C162-0EBB-43B7-93F0-181CD628EC23",
+      "overrideName": "929BA459-33F1-4E0E-B54E-8E07F6EBB8E2_stringValue",
+      "value": "Button1+Icon"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E2545EE-6616-4EFD-B8C5-6FA35B254E0D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E460AE97-B776-421D-AEBC-7E47CB495F93",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

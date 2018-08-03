@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9D1B2DB-6E6C-41B7-B81E-AE7A2507254D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "155EFB21-37AA-445B-AF1C-63B36F6671FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "224600B8-B3AD-42C9-872D-3268B275E835",
+    "height": 16.00000006666667,
+    "width": 22.75558342814827,
+    "x": 0.6222082859258684,
+    "y": 3.999999966666666
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2E899FD4-CB5A-40AD-ADDD-DE15C0A154E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A083CDA-678C-4B04-AB0D-8F7820847837"
+    }
+  ],
+  "name": "icons/youtube",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40EDBC83-2634-45C0-BEA4-C3462E89A7F0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

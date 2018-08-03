@@ -1,0 +1,94 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A053AB9-E33E-4373-8F78-9322E6436FA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D3B3FCB-D04A-444A-B65F-F44A3F5C148F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5737BDF0-520B-4621-A228-9A42E879E5FE",
+    "height": 21.0070313375293,
+    "width": 21.01171883754883,
+    "x": 1.496484331235351,
+    "y": 1.491796831215819
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4B7B8A9A-4747-402B-91F8-A0BF725D78C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB6870FD-875F-45E5-A222-980EC56C5F22"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FC70665-523B-4E8F-B2EB-80BCAB2F3801"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D1A933F-650A-4DB9-AFC1-86ECF0D2E4E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "D87DEBFE-CBD1-404A-AA56-1214AE115C09"
+    }
+  ],
+  "name": "icons/instagram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76B630C0-EFDA-4222-A967-F7C0B656793D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

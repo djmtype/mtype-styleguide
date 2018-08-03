@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 107,
+  "do_objectID": "4741BC96-599F-46EB-9B54-5E873067C9FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A88C721-4DEA-4CCC-A834-20780221C5DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F81EEE2-D2D2-4E78-8296-71781D6C9F1E",
+    "height": 20,
+    "width": 20,
+    "x": 484,
+    "y": 2208
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "35E4EC5F-B5BD-4CAA-86E9-152B02E936F6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "965DA195-C2B7-45F6-AD0D-F4CFB5DC5019"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F05C867-C995-4242-8B1B-5C69C7B2A5A0"
+    }
+  ],
+  "name": "icons/globe",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BCCEF22-AE77-4AC4-AEDF-112A13F10146",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DD677C54-3AD6-4256-BD3B-3A54D41AF9CB",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "FFBA6D7B-9F51-4A0B-960E-23DADA6F591D"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D11DAA8C-9413-4312-AE52-934C1D3661D4",
+    "guides": [
+    ]
+  }
+}

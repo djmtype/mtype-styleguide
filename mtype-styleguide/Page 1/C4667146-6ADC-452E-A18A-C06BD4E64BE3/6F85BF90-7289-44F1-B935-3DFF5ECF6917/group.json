@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6F85BF90-7289-44F1-B935-3DFF5ECF6917",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 590,
+    "width": 971,
+    "x": 234,
+    "y": 992
+  },
+  "hasClickThrough": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "32FB935B-BCAA-46E5-A9BA-DE364C2ACBF3"
+    },
+    {
+      "class": "text",
+      "id": "F95F47C3-3C2F-4926-AE21-3765400AE94D"
+    },
+    {
+      "class": "group",
+      "id": "A6BE7FD6-9957-448A-8066-E80105B746D0"
+    },
+    {
+      "class": "text",
+      "id": "99F769D8-697A-46A8-BA3C-352394ADF87D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A629EC0C-3B93-43B9-8AB7-F4B5098B06C8"
+    }
+  ],
+  "name": "Typography",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

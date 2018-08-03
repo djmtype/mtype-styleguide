@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4649334C-5597-4ECD-B867-125A384D08D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 335,
+    "width": 930,
+    "x": 235,
+    "y": 1652
+  },
+  "hasClickThrough": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F8A25254-AE24-494D-AADC-C72A704D3896"
+    },
+    {
+      "class": "group",
+      "id": "7FC6AB81-6E3C-4C99-A8CF-1CA85E622157"
+    },
+    {
+      "class": "group",
+      "id": "359F2D82-909F-45AF-90DA-0749DC8350B8"
+    },
+    {
+      "class": "group",
+      "id": "22C6030D-C7FE-43DE-A622-81429E8ECC8B"
+    },
+    {
+      "class": "group",
+      "id": "F8B71B72-F6A9-41B2-8F50-C6D687950891"
+    },
+    {
+      "class": "group",
+      "id": "C95B2719-EE84-4899-84D4-8AE0545FE5C0"
+    }
+  ],
+  "name": "Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

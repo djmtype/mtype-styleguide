@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 116,
+  "do_objectID": "461F77E0-CDEF-4E7A-A700-5E13265165BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27569C28-EDD1-49C5-9B5B-7975439342A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15BC62F9-F7EA-4484-8F0D-77FB1D405870",
+    "height": 20,
+    "width": 20,
+    "x": 480,
+    "y": 2088
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "567A7ADF-8263-4E0B-8315-7A9FDC258065",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E7CAF263-46B0-4913-9EDE-2FBE4E8B458C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "321898F8-C478-4F40-97AA-7F2A45B43F10"
+    }
+  ],
+  "name": "icons/close-outline",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDFFEC4F-8168-4192-978A-A4673770B73B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3CBFC738-D26B-4E5C-AFC7-0AB35E5290F4",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "FFBA6D7B-9F51-4A0B-960E-23DADA6F591D"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E78363B-78DB-4BFF-8403-3CAA03FFF1D3",
+    "guides": [
+    ]
+  }
+}

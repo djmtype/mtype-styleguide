@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6BEABA4C-777A-40F2-AB2C-E26C8C0B2ED6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "832462C8-1848-426A-840B-14F0E8E0C578",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "74928A59-C5C4-4C23-92EA-701C8E70C161",
+    "height": 14,
+    "width": 14,
+    "x": 106,
+    "y": 18
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/arrow-thin-right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21E794F2-DD2C-4D5B-AA8E-72992260E014",
+      "overrideName": "77F9952B-1958-4606-B926-47FA6E6FC686_symbolID",
+      "value": "34528A9D-805A-4FFD-B92E-DEB188760FE7"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E80AB311-54C3-4FE5-B8D7-278CB23AC03F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12DF0FFE-3C02-425B-8F78-5208E4E3709E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_720eb4fc-3fce-43c9-b3fd-fb565a3fd4d8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 15
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d6e9de64-438b-4fb2-bb4b-0ffdb56f9801",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

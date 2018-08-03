@@ -1,0 +1,130 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.1686274509803922,
+        "red": 0.1058823529411765
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.3568627450980392,
+        "red": 0.3098039215686275
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7294117647058823,
+        "green": 0.6784313725490196,
+        "red": 0.6549019607843137
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176472,
+        "green": 0.7843137254901961,
+        "red": 0.9803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5803921568627451,
+        "green": 0.7803921568627451,
+        "red": 0.6
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.6000000000000001,
+        "red": 0.4
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7725490196078432,
+        "green": 0.5803921568627451,
+        "red": 0.7725490196078432
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.403921568627451,
+        "green": 0.3725490196078432,
+        "red": 0.9254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3411764705882353,
+        "green": 0.568627450980392,
+        "red": 0.9764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7019607843137254,
+        "green": 0.7019607843137254,
+        "red": 0.3725490196078431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9137254901960784,
+        "green": 0.8705882352941177,
+        "red": 0.8470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1686274509803922,
+        "green": 0.1333333333333333,
+        "red": 0.07058823529411765
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "7E46F4FD-8CEE-430B-BD19-BDA89DE624B2",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "51.2",
+    "build": 57519,
+    "version": 105
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ]
+}

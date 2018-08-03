@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 96,
+  "do_objectID": "8E49EB61-EA84-465D-BB25-C8070610890A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4F0E369-6AD8-4E20-8FB6-AD1127785345",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E755E848-DE4D-4026-B2ED-112FCA083D12",
+    "height": 20,
+    "width": 20,
+    "x": 0,
+    "y": 2456
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "273C3A5E-60BA-4A42-8973-B129329EC479",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "804DFE0C-22CB-4884-8F16-DBDB4E8025B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C21AE03-C53B-4C42-8EEB-781D3F1C95D9"
+    }
+  ],
+  "name": "icons/send",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF69811A-D698-4EBB-A668-39E209D35DC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "36C65149-83E7-4096-BE5C-E438CE1507BF",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "FFBA6D7B-9F51-4A0B-960E-23DADA6F591D"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A99B8FE4-3922-43FF-BCFF-53A8946ED693",
+    "guides": [
+    ]
+  }
+}
