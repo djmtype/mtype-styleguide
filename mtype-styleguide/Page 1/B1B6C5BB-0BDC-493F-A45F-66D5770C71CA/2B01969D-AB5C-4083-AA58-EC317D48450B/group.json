@@ -18,15 +18,15 @@
     "do_objectID": "1B14F046-C613-4206-B940-5166664D9AE3",
     "height": 29,
     "width": 70,
-    "x": 715,
-    "y": 1780
+    "x": 705,
+    "y": 1790
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 2,
   "layers": [
     {
