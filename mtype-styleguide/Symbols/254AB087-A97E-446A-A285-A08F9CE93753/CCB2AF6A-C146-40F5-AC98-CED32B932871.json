@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 6,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "colors"
+    "string": "misc"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "A42D414C-C329-4D28-AB82-2D2B945A98B5",
+  "do_objectID": "CCB2AF6A-C146-40F5-AC98-CED32B932871",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 63,
-    "x": 129,
-    "y": 1198
+    "width": 48,
+    "x": 144,
+    "y": 2983
   },
-  "glyphBounds": "{{0, 4}, {62, 16}}",
+  "glyphBounds": "{{1, 3}, {46, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "colors",
+  "name": "misc",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

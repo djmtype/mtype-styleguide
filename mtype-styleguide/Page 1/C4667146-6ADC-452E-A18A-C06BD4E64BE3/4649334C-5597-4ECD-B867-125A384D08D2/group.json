@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 484,
-    "width": 1070,
-    "x": 235,
-    "y": 1712
+    "width": 1170,
+    "x": 135,
+    "y": 2122
   },
   "hasClickThrough": true,
   "isFixedToViewport": false,
@@ -70,6 +70,10 @@
     {
       "class": "group",
       "id": "4AA65B73-F197-4162-998B-315411BEFEC2"
+    },
+    {
+      "class": "group",
+      "id": "816DFDEB-0F66-44F1-83C3-C437A890CB00"
     }
   ],
   "name": "Buttons",

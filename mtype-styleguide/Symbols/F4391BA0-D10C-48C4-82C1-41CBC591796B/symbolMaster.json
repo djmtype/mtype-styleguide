@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3279,
+  "changeIdentifier": 3280,
   "do_objectID": "F4391BA0-D10C-48C4-82C1-41CBC591796B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 50,
     "width": 200,
     "x": 0,
-    "y": 1838
+    "y": 1637
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",

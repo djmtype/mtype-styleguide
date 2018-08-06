@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 17,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "buttons/secondary"
+    "string": "headings"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "25FCBC89-A10A-4F16-B0A9-27D54C371D1F",
+  "do_objectID": "99F494DD-C387-4849-96EF-65BA0B39826D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 192,
-    "x": 0,
-    "y": 700
+    "width": 93,
+    "x": 99,
+    "y": 1887
   },
-  "glyphBounds": "{{1, 4}, {191, 19}}",
+  "glyphBounds": "{{1, 3}, {91, 21}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "buttons/secondary",
+  "name": "headings",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

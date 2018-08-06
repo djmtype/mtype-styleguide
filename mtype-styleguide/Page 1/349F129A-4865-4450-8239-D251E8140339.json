@@ -27,7 +27,7 @@
             "minimumLineHeight": 56.4
           }
         },
-        "length": 15,
+        "length": 16,
         "location": 0
       },
       {
@@ -55,7 +55,7 @@
           }
         },
         "length": 5,
-        "location": 15
+        "location": 16
       },
       {
         "_class": "stringAttribute",
@@ -82,10 +82,10 @@
           }
         },
         "length": 37,
-        "location": 20
+        "location": 21
       }
     ],
-    "string": "Styleguide for mtype based on ‘Oceanic Next’ color scheme"
+    "string": "Style guide for mtype based on ‘Oceanic Next’ color scheme"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -105,12 +105,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D585B76C-B9C6-4AE7-87B1-59B25DED1868",
-    "height": 407.2999992370605,
-    "width": 722,
+    "height": 119,
+    "width": 705,
     "x": -1022,
     "y": 0
   },
-  "glyphBounds": "{{1, 10}, {636, 93}}",
+  "glyphBounds": "{{1, 10}, {647, 93}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -118,7 +118,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Styleguide for mtype",
+  "name": "Style guide for mtyp",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

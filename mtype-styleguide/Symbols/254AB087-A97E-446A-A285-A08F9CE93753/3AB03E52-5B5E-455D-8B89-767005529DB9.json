@@ -27,15 +27,15 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 14,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "shapes/primary"
+    "string": "alerts"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "D07F1E2B-0381-464F-9359-7832FEE13076",
+  "do_objectID": "3AB03E52-5B5E-455D-8B89-767005529DB9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 159,
-    "x": 33,
-    "y": 2804
+    "width": 59,
+    "x": 133,
+    "y": 0
   },
-  "glyphBounds": "{{0, 3}, {158, 20}}",
+  "glyphBounds": "{{0, 4}, {58, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "shapes/primary",
+  "name": "alerts",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

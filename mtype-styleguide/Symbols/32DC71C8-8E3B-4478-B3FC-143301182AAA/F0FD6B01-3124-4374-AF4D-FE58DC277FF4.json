@@ -26,11 +26,11 @@
             "alignment": 1
           }
         },
-        "length": 6,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Basics"
+    "string": "Style Guide • Basics"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,7 +55,7 @@
     "x": 735,
     "y": 80
   },
-  "glyphBounds": "{{492, 8}, {77, 21}}",
+  "glyphBounds": "{{334, 8}, {235, 26}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Basics",
+  "name": "Style Guide • Basics",
   "nameIsFixed": false,
   "resizingConstraint": 46,
   "resizingType": 0,
