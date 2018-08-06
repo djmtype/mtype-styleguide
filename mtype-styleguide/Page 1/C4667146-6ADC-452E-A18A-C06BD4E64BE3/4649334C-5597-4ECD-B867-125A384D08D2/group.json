@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 423,
-    "width": 1053,
+    "height": 488,
+    "width": 1070,
     "x": 235,
     "y": 1652
   },
@@ -32,16 +32,44 @@
       "id": "F8A25254-AE24-494D-AADC-C72A704D3896"
     },
     {
-      "class": "group",
-      "id": "3DCBE9A6-A2BF-4F68-8AE6-93A3268D371F"
+      "class": "text",
+      "id": "E53D04D2-DFA5-4CC0-92CF-7877F04E9D82"
+    },
+    {
+      "class": "text",
+      "id": "08BD0E5F-C9EA-4D08-98DF-85EBB80AEF7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9094FFCD-C07F-4310-A8D0-FAF886A2988B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B131DC74-96CB-483E-9E5E-1A77508AB37B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EBE4908-133B-467C-AF3E-3C8389D367EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28C77CB4-9007-4CDC-93B0-1DD6B04A22A5"
     },
     {
       "class": "group",
-      "id": "82F42DEB-2F6F-481C-B602-91450331702C"
+      "id": "5AC026B2-F4DC-4294-9EE0-E8C2E24D0EDD"
     },
     {
       "class": "group",
-      "id": "8D997906-7178-40CF-A99E-D3EAEDC11BF2"
+      "id": "AF6CA865-50F1-4FCB-9E15-31DE586556BE"
+    },
+    {
+      "class": "group",
+      "id": "48B1FD70-86B4-4FC9-8197-F12244F4C9AF"
+    },
+    {
+      "class": "group",
+      "id": "4AA65B73-F197-4162-998B-315411BEFEC2"
     }
   ],
   "name": "Buttons",

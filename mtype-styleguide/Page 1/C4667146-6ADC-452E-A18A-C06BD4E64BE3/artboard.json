@@ -46,18 +46,6 @@
   "layers": [
     {
       "class": "group",
-      "id": "B94D70B0-0747-46D6-91BA-61F95224E9C7"
-    },
-    {
-      "class": "group",
-      "id": "6BF5B4B2-4938-469E-A18C-D86D7EA8A5CB"
-    },
-    {
-      "class": "group",
-      "id": "9491D054-0CC3-4580-B41D-E4460C68969E"
-    },
-    {
-      "class": "group",
       "id": "80928C30-4B59-4DC8-BF6C-DE3C687D414B"
     },
     {
@@ -95,7 +83,7 @@
     "gutterWidth": 30,
     "guttersOutside": true,
     "horizontalOffset": 120,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1200

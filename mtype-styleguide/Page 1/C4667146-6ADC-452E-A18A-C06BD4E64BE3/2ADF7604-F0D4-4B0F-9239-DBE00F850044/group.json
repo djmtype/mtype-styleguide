@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -34,6 +34,10 @@
     {
       "class": "text",
       "id": "58F28650-FD89-47AA-A248-4D9ADCACE6ED"
+    },
+    {
+      "class": "text",
+      "id": "F0FD6B01-3124-4374-AF4D-FE58DC277FF4"
     }
   ],
   "name": "Page Title",

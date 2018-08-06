@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9137254901960784,
-            "green": 0.8705882352941177,
-            "red": 0.8470588235294118
+            "blue": 0.9607843137254902,
+            "green": 0.9607843137254902,
+            "red": 0.9607843137254902
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "IBMPlexSans",
-              "size": 20
+              "name": "IBMPlexSans-Bold",
+              "size": 15
             }
           },
-          "ligature": 0,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0.25,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "alignment": 2
           }
         },
         "length": 6,
         "location": 0
       }
     ],
-    "string": "Active"
+    "string": "Button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "03F6674D-8933-4730-9D88-506E65ACEC26",
+  "do_objectID": "A87FB5E8-F187-4772-B2A5-7529AB469E52",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C9424BB3-CBCC-44CF-BBFF-089DEC671C3B",
+    "do_objectID": "B1FCDEE2-437B-409B-B301-E7E4C295F8E9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0C761ADD-A816-4A4A-9AD1-DDDBA0EA5455",
-    "height": 30,
-    "width": 56,
-    "x": 23,
-    "y": 140
+    "do_objectID": "9E233EF5-0F07-468F-A9B4-4699301DBA64",
+    "height": 19,
+    "width": 61,
+    "x": 100,
+    "y": 15
   },
-  "glyphBounds": "{{0, 8}, {55, 16}}",
+  "glyphBounds": "{{1, 4}, {59, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,15 +64,15 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Active",
+  "name": "Button",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "160588CE-6307-4641-A982-F201354B94F7",
+    "do_objectID": "67055A5A-E9FA-463A-9B7F-0BDC694D9A8E",
     "endMarkerType": 0,
     "fills": [
       {
@@ -93,31 +93,31 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "0C7B3437-AF49-4503-99B4-44CA1F8A0522",
+    "sharedObjectID": "51FB7F3B-B060-4F03-8CB9-104589CA2EDA",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2060515F-1A64-4BE5-8647-EDB857839A67",
+      "do_objectID": "773A087D-0FB4-46CF-9D9F-7795BEC0C5AE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.8705882352941177,
-          "red": 0.8470588235294118
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IBMPlexSans",
-            "size": 20
+            "name": "IBMPlexSans-Bold",
+            "size": 15
           }
         },
-        "ligature": 0,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0.25,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "alignment": 2
         }
       },
       "verticalAlignment": 0

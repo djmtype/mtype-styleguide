@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4EBE4908-133B-467C-AF3E-3C8389D367EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07BC96EF-3768-4103-B452-7800CDAA0EA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85B761A9-984C-41FF-A49D-4C1A46BEACF7",
+    "height": 49,
+    "width": 242,
+    "x": 600,
+    "y": 439
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/label+icon copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "333D6581-8286-4216-A9B8-3210174CA0FD",
+      "overrideName": "10307313-38B4-44FD-BE0D-7F91E7477F29_stringValue",
+      "value": "Primary Pill Shape"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78041D08-62DD-418A-A525-BC5EA56959A7",
+      "overrideName": "E6282916-1EF9-46B8-9B99-1CC68BEE5920_symbolID",
+      "value": "3CB84173-91F0-44B4-A3E6-2A985B64D61D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6409799-ABAA-461B-A2D3-6F45181F31A7",
+      "overrideName": "E6282916-1EF9-46B8-9B99-1CC68BEE5920/D9D08A83-3895-48E6-8FAB-B44319EEE3E2_symbolID",
+      "value": "4A838B0B-E5A7-4A5D-9885-CC031E3C0158"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00D5AF21-C966-419D-B078-848526391C81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "240FD6A0-EA75-4EAE-94E9-1223F688AA14",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

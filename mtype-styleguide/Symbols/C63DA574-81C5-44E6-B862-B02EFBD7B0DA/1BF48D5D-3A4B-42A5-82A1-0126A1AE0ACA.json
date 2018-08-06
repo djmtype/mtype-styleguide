@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "816DFDEB-0F66-44F1-83C3-C437A890CB00",
+  "do_objectID": "1BF48D5D-3A4B-42A5-82A1-0126A1AE0ACA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D0B7C25D-086E-4F0F-88DA-739EE444A966",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,58 +15,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
-    "width": 79,
-    "x": 135,
-    "y": 1889
+    "do_objectID": "A52618E1-70B2-4606-A72E-403706137730",
+    "height": 49,
+    "width": 260,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "↳ 🎛 Shape [15 x]",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "D6722EF9-3757-411D-87BD-C44FB9D8F2A5"
-    },
-    {
-      "class": "text",
-      "id": "8CF8B4A0-FDA3-455C-B39A-D586831D6A41"
-    },
-    {
-      "class": "text",
-      "id": "03F6674D-8933-4730-9D88-506E65ACEC26"
-    },
-    {
-      "class": "text",
-      "id": "45917A6C-0B77-4180-A4CC-AEC50C8657B0"
+      "_class": "overrideValue",
+      "do_objectID": "F719932E-CA0A-45B5-856E-D8D14DCDA83A",
+      "overrideName": "5FAFF012-F311-41A5-B1AB-15C01A0CBC10_symbolID",
+      "value": ""
     }
   ],
-  "name": "Stacked Group",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5B6E8C0F-1838-4E16-9EA5-5962681988BB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C371614E-CED3-4B3E-9CA1-7402ECE9CBA6",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "align": 3,
-        "isCollapsing": 1,
-        "spacing": 40,
-        "stackType": 0
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

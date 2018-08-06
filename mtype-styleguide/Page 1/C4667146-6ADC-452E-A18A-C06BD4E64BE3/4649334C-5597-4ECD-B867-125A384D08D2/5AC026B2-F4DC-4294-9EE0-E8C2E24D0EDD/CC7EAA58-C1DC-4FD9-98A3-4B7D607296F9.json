@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "816DFDEB-0F66-44F1-83C3-C437A890CB00",
+  "do_objectID": "CC7EAA58-C1DC-4FD9-98A3-4B7D607296F9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FD5E7273-1556-4A75-A509-4E2B83613B2B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,58 +15,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
-    "width": 79,
-    "x": 135,
-    "y": 1889
+    "do_objectID": "2C417E2B-E25A-4DE4-87C4-D2978DA2BD6E",
+    "height": 49,
+    "width": 150,
+    "x": 155,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "buttons/primary/medium/label",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "D6722EF9-3757-411D-87BD-C44FB9D8F2A5"
-    },
-    {
-      "class": "text",
-      "id": "8CF8B4A0-FDA3-455C-B39A-D586831D6A41"
-    },
-    {
-      "class": "text",
-      "id": "03F6674D-8933-4730-9D88-506E65ACEC26"
-    },
-    {
-      "class": "text",
-      "id": "45917A6C-0B77-4180-A4CC-AEC50C8657B0"
+      "_class": "overrideValue",
+      "do_objectID": "79B7E2D9-89AB-4DC1-9F41-35AF208B83AB",
+      "overrideName": "10307313-38B4-44FD-BE0D-7F91E7477F29_stringValue",
+      "value": "Primary"
     }
   ],
-  "name": "Stacked Group",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6587FEA0-04F0-4437-A3E6-D942FE0887B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "240FD6A0-EA75-4EAE-94E9-1223F688AA14",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "align": 3,
-        "isCollapsing": 1,
-        "spacing": 40,
-        "stackType": 0
-      },
-      "kViewTypeKey": "ADModelStackView"
+      }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

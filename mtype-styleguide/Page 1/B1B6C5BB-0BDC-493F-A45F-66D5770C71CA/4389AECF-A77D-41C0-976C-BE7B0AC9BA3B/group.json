@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "580AE021-B96A-47C0-9E89-AC298CA460DB"
-    },
-    {
-      "class": "text",
-      "id": "9B5FE5CF-16B8-410E-AF42-3BFF09A1DA59"
     }
   ],
   "name": "Page Title",

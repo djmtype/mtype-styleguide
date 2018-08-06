@@ -1,7 +1,7 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "80928C30-4B59-4DC8-BF6C-DE3C687D414B",
+  "booleanOperation": -1,
+  "do_objectID": "AF6CA865-50F1-4FCB-9E15-31DE586556BE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 331,
-    "width": 971,
-    "x": 234,
-    "y": 2542
+    "height": 49,
+    "width": 487,
+    "x": 0,
+    "y": 297
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -28,19 +28,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "11BE5A4E-F018-41B1-8C19-A41B88E310EF"
+      "class": "symbolInstance",
+      "id": "8A0AFA14-93A9-48D9-86D5-1AA4D0A3B04A"
     },
     {
       "class": "symbolInstance",
-      "id": "DCA20CBA-DFE3-402D-A8F7-D69405DC6D54"
+      "id": "E921B98D-5786-420C-94EC-FEDD15DEF9A2"
     },
     {
-      "class": "group",
-      "id": "CEAA0582-8BD1-4555-9625-C02451A07C48"
+      "class": "symbolInstance",
+      "id": "27A53ED0-D66E-44B1-9AE6-2F99387A1EBF"
     }
   ],
-  "name": "Spacing",
+  "name": "Stacked Group 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,24 +49,6 @@
   "style": {
     "_class": "style",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
@@ -74,7 +56,11 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "isCollapsing": 1,
+        "spacing": 10,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }
