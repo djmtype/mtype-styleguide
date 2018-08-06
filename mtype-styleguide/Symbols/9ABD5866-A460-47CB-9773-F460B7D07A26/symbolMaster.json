@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 22,
+  "changeIdentifier": 24,
   "do_objectID": "9ABD5866-A460-47CB-9773-F460B7D07A26",
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,8 +55,8 @@
       "id": "3D79D2EC-1EE4-42F0-A38D-541196A078B5"
     }
   ],
-  "name": "headings/title",
-  "nameIsFixed": false,
+  "name": "headings/section-title",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

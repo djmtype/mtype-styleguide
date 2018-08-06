@@ -19,8 +19,8 @@
     "do_objectID": "E847A45A-4BB4-49B7-B16D-1D00031478CF",
     "height": 28,
     "width": 182,
-    "x": 0,
-    "y": 34
+    "x": 42,
+    "y": 288
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -38,7 +38,7 @@
   ],
   "name": "Rectangle",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
