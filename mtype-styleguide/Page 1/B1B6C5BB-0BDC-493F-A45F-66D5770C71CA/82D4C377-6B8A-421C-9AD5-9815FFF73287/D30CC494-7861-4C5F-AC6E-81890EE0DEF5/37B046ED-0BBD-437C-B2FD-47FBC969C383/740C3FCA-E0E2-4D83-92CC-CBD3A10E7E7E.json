@@ -1,10 +1,11 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "2454532D-9AE1-4555-9080-71BE9FBF2B14",
+  "do_objectID": "740C3FCA-E0E2-4D83-92CC-CBD3A10E7E7E",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "320E57D5-D8AE-4E2F-BA7E-B6462982F67D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,8 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 360,
-    "width": 570,
+    "do_objectID": "318338EF-288B-4859-8903-25EEA3CEA78E",
+    "height": 28,
+    "width": 182,
     "x": 0,
     "y": 0
   },
@@ -77,5 +79,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

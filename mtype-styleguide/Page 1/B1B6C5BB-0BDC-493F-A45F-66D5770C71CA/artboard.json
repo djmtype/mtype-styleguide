@@ -54,23 +54,11 @@
     },
     {
       "class": "group",
+      "id": "82D4C377-6B8A-421C-9AD5-9815FFF73287"
+    },
+    {
+      "class": "group",
       "id": "4389AECF-A77D-41C0-976C-BE7B0AC9BA3B"
-    },
-    {
-      "class": "group",
-      "id": "F930B0F7-1629-4EC0-8BEE-4A2A7E2202BD"
-    },
-    {
-      "class": "group",
-      "id": "D30CC494-7861-4C5F-AC6E-81890EE0DEF5"
-    },
-    {
-      "class": "group",
-      "id": "2B01969D-AB5C-4083-AA58-EC317D48450B"
-    },
-    {
-      "class": "text",
-      "id": "5ECEEF33-7F9C-4D9F-80C9-DA2FCC6B3721"
     },
     {
       "class": "symbolInstance",
@@ -94,7 +82,7 @@
   },
   "name": "Theme Extras",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

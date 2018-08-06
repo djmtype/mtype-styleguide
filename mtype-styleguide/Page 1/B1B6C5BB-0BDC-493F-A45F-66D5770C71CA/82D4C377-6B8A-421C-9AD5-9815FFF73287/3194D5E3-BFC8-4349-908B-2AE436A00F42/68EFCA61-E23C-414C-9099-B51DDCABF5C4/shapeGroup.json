@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A04BA0AC-8520-43BE-9214-A0D5FBF5AEC1",
+  "do_objectID": "68EFCA61-E23C-414C-9099-B51DDCABF5C4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 360,
-    "width": 570,
-    "x": 0,
+    "height": 20,
+    "width": 1,
+    "x": 11,
     "y": 0
   },
   "hasClickThrough": false,
@@ -31,12 +31,12 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "E226E3F1-FE8B-4094-94CA-0C2D64E4F7D0"
+      "id": "FF0237C8-AFE5-45DB-819C-7B4BBA56678E"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -58,11 +58,6 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.5994977678571428
-    },
     "endMarkerType": 0,
     "fills": [
       {
@@ -74,12 +69,7 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/4dbfb323d4e56dd0ce7a0971f687d8453d10dda5.png",
-          "_ref_class": "MSImageData"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8AFE23F5-95BC-4670-8E74-29FC1239032C",
+  "do_objectID": "37B046ED-0BBD-437C-B2FD-47FBC969C383",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F781CE62-B963-4193-A984-3E23223533C3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 220,
+    "do_objectID": "E847A45A-4BB4-49B7-B16D-1D00031478CF",
+    "height": 28,
+    "width": 182,
     "x": 0,
-    "y": 0
+    "y": 34
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,12 +33,12 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "65C8E08B-2273-4EC9-BAD8-2D36EF1D935A"
+      "id": "740C3FCA-E0E2-4D83-92CC-CBD3A10E7E7E"
     }
   ],
-  "name": "Rectangle [10 20]",
+  "name": "Rectangle",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -45,8 +47,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.6
+      "do_objectID": "1884EF90-E05E-42E8-8399-CE84FCD21979",
+      "opacity": 0.7018973214285714
     },
+    "do_objectID": "E12A8A7D-6AB3-4F9D-850D-A5FBAC7EABDC",
     "endMarkerType": 0,
     "fills": [
       {

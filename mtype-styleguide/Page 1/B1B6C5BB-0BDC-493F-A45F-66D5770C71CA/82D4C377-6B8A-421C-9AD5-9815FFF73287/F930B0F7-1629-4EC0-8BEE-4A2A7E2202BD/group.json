@@ -1,7 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "D30CC494-7861-4C5F-AC6E-81890EE0DEF5",
+  "do_objectID": "F930B0F7-1629-4EC0-8BEE-4A2A7E2202BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 220,
-    "x": 265,
-    "y": 2040
+    "height": 360,
+    "width": 570,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -29,14 +29,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8AFE23F5-95BC-4670-8E74-29FC1239032C"
+      "id": "D2BCCDD9-8194-4763-A13C-55A5FD77FA42"
     },
     {
-      "class": "text",
-      "id": "ADC20A22-903C-40A6-9F02-CEBA9B9EB156"
+      "class": "shapeGroup",
+      "id": "A04BA0AC-8520-43BE-9214-A0D5FBF5AEC1"
     }
   ],
-  "name": "Post Title",
+  "name": "Post Thumb",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

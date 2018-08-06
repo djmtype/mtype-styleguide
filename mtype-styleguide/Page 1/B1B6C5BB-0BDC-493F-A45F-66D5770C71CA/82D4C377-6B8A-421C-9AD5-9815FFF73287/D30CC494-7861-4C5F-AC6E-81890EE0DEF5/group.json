@@ -1,7 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "FA33A9B9-FD8A-4B12-91B6-B457990A9422",
+  "do_objectID": "D30CC494-7861-4C5F-AC6E-81890EE0DEF5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 70,
-    "x": 0,
-    "y": 0
+    "height": 62,
+    "width": 306,
+    "x": 42,
+    "y": 254
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -29,12 +29,20 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B51096C8-ADA6-4996-9F69-040A900409A7"
+      "id": "8AFE23F5-95BC-4670-8E74-29FC1239032C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37B046ED-0BBD-437C-B2FD-47FBC969C383"
+    },
+    {
+      "class": "text",
+      "id": "7F139452-45B1-4CED-A3B2-DBF4869568F2"
     }
   ],
-  "name": "Music",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "Post Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 51,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

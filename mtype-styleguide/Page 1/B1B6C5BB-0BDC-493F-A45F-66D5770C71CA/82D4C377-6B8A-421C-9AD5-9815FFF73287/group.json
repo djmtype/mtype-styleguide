@@ -1,7 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "F930B0F7-1629-4EC0-8BEE-4A2A7E2202BD",
+  "do_objectID": "82D4C377-6B8A-421C-9AD5-9815FFF73287",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,7 +19,7 @@
     "x": 235,
     "y": 1760
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,15 +28,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "D2BCCDD9-8194-4763-A13C-55A5FD77FA42"
+      "class": "group",
+      "id": "F930B0F7-1629-4EC0-8BEE-4A2A7E2202BD"
     },
     {
-      "class": "shapeGroup",
-      "id": "A04BA0AC-8520-43BE-9214-A0D5FBF5AEC1"
+      "class": "group",
+      "id": "D30CC494-7861-4C5F-AC6E-81890EE0DEF5"
+    },
+    {
+      "class": "group",
+      "id": "3194D5E3-BFC8-4349-908B-2AE436A00F42"
     }
   ],
-  "name": "Post Thumb",
+  "name": "Card",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

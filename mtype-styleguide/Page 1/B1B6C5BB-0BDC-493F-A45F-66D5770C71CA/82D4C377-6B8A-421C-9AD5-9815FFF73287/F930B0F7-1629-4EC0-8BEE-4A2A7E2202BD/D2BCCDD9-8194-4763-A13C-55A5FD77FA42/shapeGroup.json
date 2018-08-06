@@ -34,8 +34,8 @@
       "id": "2454532D-9AE1-4555-9080-71BE9FBF2B14"
     }
   ],
-  "name": "Rectangle Copy",
-  "nameIsFixed": false,
+  "name": "Gradient",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
