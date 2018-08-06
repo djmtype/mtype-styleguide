@@ -1,9 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "6BF5B4B2-4938-469E-A18C-D86D7EA8A5CB",
+  "do_objectID": "34ADF7B4-10A5-4D83-96EA-3B0D8286165C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "36447BD0-2F83-4420-A3EB-1E4A7425C89A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,45 +15,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 438,
-    "width": 470,
-    "x": 735,
-    "y": 2902
+    "do_objectID": "9DAD5496-9FD9-4568-AF77-540B4BA456FD",
+    "height": 49,
+    "width": 160,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "buttons/primary/medium/label+icon copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "58B06FBF-42DA-40B5-AFF3-A282ACE3A737"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6A8C230F-671C-41D2-816D-F3C7701C8F46"
+      "_class": "overrideValue",
+      "do_objectID": "F375C162-0EBB-43B7-93F0-181CD628EC23",
+      "overrideName": "929BA459-33F1-4E0E-B54E-8E07F6EBB8E2_stringValue",
+      "value": "Button"
     }
   ],
-  "name": "Notifications",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B8467743-DC81-4DEE-BBA3-EF47E3750991",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E460AE97-B776-421D-AEBC-7E47CB495F93",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

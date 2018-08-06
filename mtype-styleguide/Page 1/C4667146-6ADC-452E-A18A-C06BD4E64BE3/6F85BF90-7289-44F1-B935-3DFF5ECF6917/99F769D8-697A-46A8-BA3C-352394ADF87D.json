@@ -51,8 +51,8 @@
     "constrainProportions": false,
     "height": 38,
     "width": 222,
-    "x": 0,
-    "y": 157
+    "x": 1,
+    "y": 148
   },
   "glyphBounds": "{{0, 7}, {221, 27}}",
   "isFixedToViewport": false,

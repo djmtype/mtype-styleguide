@@ -1,7 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "6BF5B4B2-4938-469E-A18C-D86D7EA8A5CB",
+  "do_objectID": "82F42DEB-2F6F-481C-B602-91450331702C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 438,
-    "width": 470,
-    "x": 735,
-    "y": 2902
+    "height": 275,
+    "width": 331,
+    "x": 361.0000000000001,
+    "y": 148
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -29,15 +29,19 @@
   "layers": [
     {
       "class": "group",
-      "id": "58B06FBF-42DA-40B5-AFF3-A282ACE3A737"
+      "id": "7FC6AB81-6E3C-4C99-A8CF-1CA85E622157"
     },
     {
-      "class": "symbolInstance",
-      "id": "6A8C230F-671C-41D2-816D-F3C7701C8F46"
+      "class": "group",
+      "id": "C95B2719-EE84-4899-84D4-8AE0545FE5C0"
+    },
+    {
+      "class": "text",
+      "id": "3550F13C-A63E-4CFA-A707-085986013B06"
     }
   ],
-  "name": "Notifications",
-  "nameIsFixed": true,
+  "name": "Group 13",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

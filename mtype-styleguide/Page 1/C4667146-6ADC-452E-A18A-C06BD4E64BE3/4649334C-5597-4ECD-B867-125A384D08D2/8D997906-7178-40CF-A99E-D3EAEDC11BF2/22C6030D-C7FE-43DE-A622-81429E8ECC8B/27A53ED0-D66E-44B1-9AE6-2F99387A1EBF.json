@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "27A53ED0-D66E-44B1-9AE6-2F99387A1EBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6D63603-A416-4DCC-A838-FF1A5E17EBB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B986AE85-18E6-461C-9130-E8CF6A2CDF84",
+    "height": 49,
+    "width": 141,
+    "x": 0,
+    "y": 69
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "buttons/primary/medium/label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA7C42FE-E88E-4632-B7F3-C80098A8464B",
+      "overrideName": "58748968-AA1B-4C5A-B8D8-CD7481F13523_stringValue",
+      "value": "Button"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B72098BC-E47E-4087-B731-4B9C4EF4D29D",
+      "overrideName": "6EECC503-73FF-48EE-94BB-2D74A32F63B8/5FAFF012-F311-41A5-B1AB-15C01A0CBC10_symbolID",
+      "value": "3C70D099-21BF-4178-8192-6EE4A1D2BEEB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8A4AA46-0B49-43A1-92C8-427B021184A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E6B4EEE-56A6-42A2-A8CF-C0BBC3D48EA1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

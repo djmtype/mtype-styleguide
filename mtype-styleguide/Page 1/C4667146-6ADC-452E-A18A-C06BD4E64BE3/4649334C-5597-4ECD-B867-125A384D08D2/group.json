@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 335,
-    "width": 930,
+    "height": 423,
+    "width": 1053,
     "x": 235,
     "y": 1652
   },
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -33,23 +33,15 @@
     },
     {
       "class": "group",
-      "id": "7FC6AB81-6E3C-4C99-A8CF-1CA85E622157"
+      "id": "3DCBE9A6-A2BF-4F68-8AE6-93A3268D371F"
     },
     {
       "class": "group",
-      "id": "359F2D82-909F-45AF-90DA-0749DC8350B8"
+      "id": "82F42DEB-2F6F-481C-B602-91450331702C"
     },
     {
       "class": "group",
-      "id": "22C6030D-C7FE-43DE-A622-81429E8ECC8B"
-    },
-    {
-      "class": "group",
-      "id": "F8B71B72-F6A9-41B2-8F50-C6D687950891"
-    },
-    {
-      "class": "group",
-      "id": "C95B2719-EE84-4899-84D4-8AE0545FE5C0"
+      "id": "8D997906-7178-40CF-A99E-D3EAEDC11BF2"
     }
   ],
   "name": "Buttons",

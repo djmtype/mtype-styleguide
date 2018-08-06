@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4200,
+    "height": 4400,
     "width": 1440,
     "x": 0,
     "y": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -79,6 +79,10 @@
     {
       "class": "group",
       "id": "2ADF7604-F0D4-4B0F-9239-DBE00F850044"
+    },
+    {
+      "class": "group",
+      "id": "816DFDEB-0F66-44F1-83C3-C437A890CB00"
     }
   ],
   "layout": {
@@ -91,7 +95,7 @@
     "gutterWidth": 30,
     "guttersOutside": true,
     "horizontalOffset": 120,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1200

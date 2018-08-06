@@ -1,7 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "6BF5B4B2-4938-469E-A18C-D86D7EA8A5CB",
+  "do_objectID": "816DFDEB-0F66-44F1-83C3-C437A890CB00",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 438,
-    "width": 470,
-    "x": 735,
-    "y": 2902
+    "height": 170,
+    "width": 56,
+    "x": 154,
+    "y": 1897
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -28,16 +28,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "58B06FBF-42DA-40B5-AFF3-A282ACE3A737"
+      "class": "text",
+      "id": "D6722EF9-3757-411D-87BD-C44FB9D8F2A5"
     },
     {
-      "class": "symbolInstance",
-      "id": "6A8C230F-671C-41D2-816D-F3C7701C8F46"
+      "class": "text",
+      "id": "8CF8B4A0-FDA3-455C-B39A-D586831D6A41"
+    },
+    {
+      "class": "text",
+      "id": "03F6674D-8933-4730-9D88-506E65ACEC26"
     }
   ],
-  "name": "Notifications",
-  "nameIsFixed": true,
+  "name": "Stacked Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -52,7 +56,12 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-      }
+        "align": 3,
+        "isCollapsing": 1,
+        "spacing": 40,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
     }
   }
 }

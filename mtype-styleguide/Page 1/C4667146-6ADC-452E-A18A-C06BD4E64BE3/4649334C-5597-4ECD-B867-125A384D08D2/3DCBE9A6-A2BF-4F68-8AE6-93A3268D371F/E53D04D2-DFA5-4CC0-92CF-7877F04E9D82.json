@@ -27,18 +27,19 @@
             "minimumLineHeight": 37.8
           }
         },
-        "length": 9,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Body Text"
+    "string": "Default"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "F95F47C3-3C2F-4926-AE21-3765400AE94D",
+  "do_objectID": "E53D04D2-DFA5-4CC0-92CF-7877F04E9D82",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "133927F4-AA63-4F6B-9517-43B9163C1107",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "EEA8B073-7F35-4250-B581-5F944D88B12C",
     "height": 38,
-    "width": 125,
-    "x": 600,
-    "y": 148
+    "width": 94,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{2, 8}, {122, 26}}",
+  "glyphBounds": "{{2, 8}, {91, 21}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Body Text",
+  "name": "Default",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,7 +72,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0AD159DF-8E4C-4459-BC73-05BEC36A500A",
+    "do_objectID": "D91155AC-CC80-4C76-969E-6DC6AE491726",
     "endMarkerType": 0,
     "fills": [
       {
@@ -95,6 +97,7 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5363E105-4A95-4342-B5DE-D0F43E490654",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

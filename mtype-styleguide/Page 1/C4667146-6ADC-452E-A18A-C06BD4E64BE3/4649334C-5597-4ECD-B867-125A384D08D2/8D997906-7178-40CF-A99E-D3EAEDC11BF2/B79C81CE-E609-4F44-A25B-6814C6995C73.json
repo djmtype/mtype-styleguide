@@ -31,14 +31,15 @@
         "location": 0
       }
     ],
-    "string": "Body Text"
+    "string": "Secondary"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "F95F47C3-3C2F-4926-AE21-3765400AE94D",
+  "do_objectID": "B79C81CE-E609-4F44-A25B-6814C6995C73",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "07C29A1D-4D63-461D-9B25-F40A043791F7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "9E8FB6D4-49D0-4F34-8450-1E624B0B8222",
     "height": 38,
-    "width": 125,
-    "x": 600,
-    "y": 148
+    "width": 135,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{2, 8}, {122, 26}}",
+  "glyphBounds": "{{1, 8}, {134, 26}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Body Text",
+  "name": "Secondary",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,7 +72,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0AD159DF-8E4C-4459-BC73-05BEC36A500A",
+    "do_objectID": "D57EFA3F-FE37-40EB-8123-63E4C28BF6C0",
     "endMarkerType": 0,
     "fills": [
       {
@@ -95,6 +97,7 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "344EFF9C-C030-4777-83EF-5E31F8B5944E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

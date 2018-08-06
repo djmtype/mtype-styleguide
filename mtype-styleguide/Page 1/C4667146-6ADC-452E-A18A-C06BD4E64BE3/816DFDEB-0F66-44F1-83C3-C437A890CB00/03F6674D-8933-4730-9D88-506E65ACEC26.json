@@ -16,29 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "IBMPlexSans-Bold",
-              "size": 27
+              "name": "IBMPlexSans",
+              "size": 20
             }
           },
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 37.8,
-            "minimumLineHeight": 37.8
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           }
         },
-        "length": 9,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Body Text"
+    "string": "Active"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "F95F47C3-3C2F-4926-AE21-3765400AE94D",
+  "booleanOperation": -1,
+  "do_objectID": "03F6674D-8933-4730-9D88-506E65ACEC26",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C9424BB3-CBCC-44CF-BBFF-089DEC671C3B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,20 +50,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
-    "width": 125,
-    "x": 600,
-    "y": 148
+    "do_objectID": "0C761ADD-A816-4A4A-9AD1-DDDBA0EA5455",
+    "height": 30,
+    "width": 56,
+    "x": 0,
+    "y": 140
   },
-  "glyphBounds": "{{2, 8}, {122, 26}}",
+  "glyphBounds": "{{0, 8}, {55, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Body Text",
+  "lineSpacingBehaviour": 2,
+  "name": "Active",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,7 +72,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0AD159DF-8E4C-4459-BC73-05BEC36A500A",
+    "do_objectID": "160588CE-6307-4641-A982-F201354B94F7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -91,10 +93,11 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "5DFB7AAD-8769-4CB8-9CB6-483C4034E067",
+    "sharedObjectID": "0C7B3437-AF49-4503-99B4-44CA1F8A0522",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "2060515F-1A64-4BE5-8647-EDB857839A67",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -106,15 +109,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IBMPlexSans-Bold",
-            "size": 27
+            "name": "IBMPlexSans",
+            "size": 20
           }
         },
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 37.8,
-          "minimumLineHeight": 37.8
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         }
       },
       "verticalAlignment": 0
