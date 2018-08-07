@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "DA49A01F-2817-4ED5-8C93-7017D86E239D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 420,
+    "width": 270,
+    "x": 735,
+    "y": 510
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8F80F195-3C60-4AB7-84C6-DF94576E3B2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "717515D0-0D15-497F-A36C-0665C0988F79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19B9B838-5101-41EE-B3E1-061D86BFE92D"
+    },
+    {
+      "class": "text",
+      "id": "FD93C1D2-09CE-4C34-9DFA-8EFA87A908B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "181A3C74-19D8-4672-AFE1-56BB42EEF06D"
+    }
+  ],
+  "name": "Health",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
