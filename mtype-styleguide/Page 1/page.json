@@ -43,6 +43,10 @@
       "id": "B1B6C5BB-0BDC-493F-A45F-66D5770C71CA"
     },
     {
+      "class": "artboard",
+      "id": "5A6B9F4D-1BE9-48E6-AD67-15820E15D897"
+    },
+    {
       "class": "bitmap",
       "id": "89CC66D3-1DFF-445D-940F-82370C9CEA1A"
     },
@@ -53,6 +57,10 @@
     {
       "class": "text",
       "id": "85E0CE30-E24E-46D6-A645-B589F60975BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5450C94E-05ED-4DE3-93B8-4C07DEE1C372"
     }
   ],
   "layout": {

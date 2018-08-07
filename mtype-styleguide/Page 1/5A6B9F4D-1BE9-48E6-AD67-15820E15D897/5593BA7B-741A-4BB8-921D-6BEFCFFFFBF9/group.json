@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5593BA7B-741A-4BB8-921D-6BEFCFFFFBF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCDBE2C1-0A21-4AD4-8A92-10460F572042",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F3B2259-60E0-4EEF-BA24-E599167D60AC",
+    "height": 510,
+    "width": 270,
+    "x": 135,
+    "y": 270
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B916B377-FF81-4AED-8806-39B883474E76"
+    },
+    {
+      "class": "group",
+      "id": "812071BC-FB57-4AC5-BFB8-2B4B710BB8F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0D6C332-BE3A-40D6-8139-DDB81C39B0C2"
+    }
+  ],
+  "name": "Sandbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "295F5734-7573-497C-B201-AE9D9878F941",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

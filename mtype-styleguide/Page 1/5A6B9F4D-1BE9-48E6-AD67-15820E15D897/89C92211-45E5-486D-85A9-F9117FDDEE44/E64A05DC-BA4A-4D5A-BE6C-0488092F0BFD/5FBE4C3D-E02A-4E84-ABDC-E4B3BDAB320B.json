@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "854A3486-4162-4B9D-BF94-85A37790C34E",
+  "do_objectID": "5FBE4C3D-E02A-4E84-ABDC-E4B3BDAB320B",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 113,
-    "width": 113,
+    "height": 510.0000000000001,
+    "width": 270,
     "x": 0,
     "y": 0
   },
@@ -29,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Rectangle-path",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [

@@ -126,6 +126,68 @@
           }
         ],
         "to": "{0, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.97328847543352581, 0.02671152456647399}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.7725490196078432,
+              "green": 0.5803921568627451,
+              "red": 0.7725490196078432
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8,
+              "green": 0.6000000000000001,
+              "red": 0.4
+            },
+            "position": 1
+          }
+        ],
+        "to": "{2.2204460492503131e-16, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{1, 1}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8,
+              "green": 0.6000000000000001,
+              "red": 0.4
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3882352941176472,
+              "green": 0.7843137254901961,
+              "red": 0.9803921568627451
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0, 0}"
       }
     ],
     "imageCollection": {
