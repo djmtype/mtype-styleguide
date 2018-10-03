@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4DA2BE54-3A5F-4C36-AA41-346554108E77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CDE021E-9C10-432D-9988-0742653F4875",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC44D845-5AED-4E42-B12F-423C0DCE2000",
+    "height": 20,
+    "width": 20,
+    "x": 447,
+    "y": 109
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/cheveron-outline-right copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D054A82-EC40-4D1C-A122-E678E11E5BB3",
+      "overrideName": "67E33BB8-1204-484E-8F8F-7E3BCBBAA301_symbolID",
+      "value": "0AB2C46B-2F53-423F-BC0C-65C8B0405990"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "195B4999-9AB2-4273-A134-C8038C3550A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F79BD4D-088A-4A17-AEA2-895F1E6C7EFB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

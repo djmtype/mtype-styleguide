@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "B5D64A8E-085E-4D21-BE11-71A5D89379F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70AE9EBD-D26C-4C44-BCEA-281D09B6293C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E18128F-1511-430B-B637-F95827549B38",
+    "height": 420,
+    "width": 300,
+    "x": 361,
+    "y": 420
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C2AB1B1-1662-4D88-B34F-94B51B300548"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3784552-7084-44D3-B507-9F0904280A0C"
+    },
+    {
+      "class": "group",
+      "id": "2A6BF3F3-55B4-4FD2-866F-D69921F12C01"
+    }
+  ],
+  "name": "Playlist",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "931AE722-574C-4A06-AE80-CD7B1352B2E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

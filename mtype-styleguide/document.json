@@ -188,6 +188,37 @@
           }
         ],
         "to": "{0, 0}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 1}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.7000000000000001,
+              "blue": 0.3372549019607843,
+              "green": 0.5647058823529412,
+              "red": 0.9607843137254902
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.3,
+              "blue": 0.3882352941176472,
+              "green": 0.7843137254901961,
+              "red": 0.9803921568627451
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 0.078644328034682132}"
       }
     ],
     "imageCollection": {
@@ -212,8 +243,8 @@
     ]
   },
   "meta": {
-    "appVersion": "51.2",
-    "build": 57519,
+    "appVersion": "51.3",
+    "build": 57544,
     "version": 105
   },
   "pages": [

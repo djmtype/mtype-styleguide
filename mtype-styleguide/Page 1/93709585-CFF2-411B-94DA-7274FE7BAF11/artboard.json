@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.203921568627451,
+    "green": 0.1686274509803922,
+    "red": 0.1058823529411765
+  },
+  "booleanOperation": 0,
+  "do_objectID": "93709585-CFF2-411B-94DA-7274FE7BAF11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 810,
+    "width": 1440,
+    "x": 7700,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "54C34CF6-36CB-4480-A099-694FAA8EEB8D"
+    },
+    {
+      "class": "group",
+      "id": "6FC96FF7-6581-4BD2-A0B1-F7081A34ACC7"
+    },
+    {
+      "class": "group",
+      "id": "EE35AEAF-7B3E-465F-9B4B-C9B435EB078D"
+    },
+    {
+      "class": "group",
+      "id": "88331C67-C52B-4A76-AEF1-6ACAF3C4885B"
+    },
+    {
+      "class": "group",
+      "id": "DAA1DBBC-4318-4DB2-97C6-E0E5CBD596FE"
+    },
+    {
+      "class": "group",
+      "id": "8D8ECF34-1791-4E27-BA9F-68D07A4EAA20"
+    },
+    {
+      "class": "group",
+      "id": "18A7E60B-7A90-4D61-9DA2-C3B869E971A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "837CC20A-0E96-4901-A5D6-4012E81EA9B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAA9FFCF-7E60-4C0F-8FAD-22A19229ADFC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 30,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 208,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1200
+  },
+  "name": "Layout - Single Top Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

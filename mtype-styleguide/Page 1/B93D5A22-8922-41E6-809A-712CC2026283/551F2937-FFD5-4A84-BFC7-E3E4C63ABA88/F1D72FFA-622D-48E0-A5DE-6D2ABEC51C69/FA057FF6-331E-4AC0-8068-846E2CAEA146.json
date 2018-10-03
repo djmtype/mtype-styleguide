@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "The JAMstack Recordings of Hodie"
+    "string": "The JAMstack Recordings of Hodor"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 7,
     "y": 1.13686837721616e-13
   },
-  "glyphBounds": "{{0, 8}, {187, 50}}",
+  "glyphBounds": "{{0, 8}, {190, 50}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
