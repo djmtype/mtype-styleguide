@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "835D2846-C4D3-4373-9513-81840B5B0FA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4673B7CA-95AD-4967-84E7-7613CF60498D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5334CD9E-BCD7-4D95-84C6-9299C4E92BD0",
+    "height": 283,
+    "width": 200,
+    "x": 720,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D8B1B971-1A66-4652-BC19-3F33584C336E"
+    },
+    {
+      "class": "text",
+      "id": "9EDBCEC8-B38D-4FC2-B052-06DECFEC62CE"
+    },
+    {
+      "class": "text",
+      "id": "97564CFC-CDCF-430D-92AC-2AF4C496F2D9"
+    },
+    {
+      "class": "text",
+      "id": "55BF7AF4-8FE0-4B22-9324-ABE83432D407"
+    },
+    {
+      "class": "shapePath",
+      "id": "A1C950A9-2119-4BAC-A259-A98D2B49F025"
+    },
+    {
+      "class": "rectangle",
+      "id": "1AD64E5C-46A0-4496-9225-0067442F3823"
+    }
+  ],
+  "name": "Jonquil",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0589C4C0-94D2-46F4-91F2-9F664AC08612",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.3882352941176472,
+        "green": 0.7843137254901961,
+        "hex": "FAC863",
+        "name": "Jonquil",
+        "red": 0.9803921568627451
+      }
+    }
+  }
+}

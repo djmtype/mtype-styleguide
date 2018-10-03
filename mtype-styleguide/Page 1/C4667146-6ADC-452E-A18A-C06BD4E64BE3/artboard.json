@@ -8,6 +8,7 @@
     "red": 0.1058823529411765
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "C4667146-6ADC-452E-A18A-C06BD4E64BE3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,6 +29,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -82,8 +84,8 @@
     "gutterHeight": 20,
     "gutterWidth": 30,
     "guttersOutside": true,
-    "horizontalOffset": 208,
-    "isEnabled": true,
+    "horizontalOffset": 120,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1200

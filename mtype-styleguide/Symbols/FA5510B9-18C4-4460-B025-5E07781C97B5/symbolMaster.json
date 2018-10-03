@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 164,
+  "changeIdentifier": 175,
+  "clippingMaskMode": 0,
   "do_objectID": "FA5510B9-18C4-4460-B025-5E07781C97B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "B3480F9D-F0F6-4AA6-8F16-87CF9D9F3322",
     "height": 24,
     "width": 24,
-    "x": 120,
-    "y": 2511
+    "x": 168,
+    "y": 1774
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "5A053AB9-E33E-4373-8F78-9322E6436FA3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76A980F3-C89C-4CFC-BEB5-85166940A58E"
     }
   ],
   "name": "icons/instagram",

@@ -49,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "D43F2D64-F5FA-4D8D-B168-2847A6F1AAE4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -60,12 +61,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.9137254901960784,
+          "green": 0.8705882352941177,
+          "red": 0.8470588235294118
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -74,7 +75,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
@@ -82,5 +83,5 @@
       }
     }
   },
-  "windingRule": 0
+  "windingRule": 1
 }

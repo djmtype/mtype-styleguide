@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "75DE7406-2FF9-43CB-8377-A3D792112609",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "x": 125,
     "y": 15
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -36,6 +38,12 @@
       "do_objectID": "A7D2BC11-D0A1-4713-BA87-ABCE3B14C737",
       "overrideName": "321898F8-C478-4F40-97AA-7F2A45B43F10_symbolID",
       "value": "690F1706-6064-4124-82D6-04B493086BD9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFAFD149-FE24-4AF9-AD3F-9931FF1B895D",
+      "overrideName": "E7CAF263-46B0-4913-9EDE-2FBE4E8B458C_layerStyle",
+      "value": "9C4AFEC9-DAEC-415B-99BB-FE76906336DF"
     }
   ],
   "resizingConstraint": 44,
@@ -52,5 +60,11 @@
     "windingRule": 1
   },
   "symbolID": "3CBFC738-D26B-4E5C-AFC7-0AB35E5290F4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

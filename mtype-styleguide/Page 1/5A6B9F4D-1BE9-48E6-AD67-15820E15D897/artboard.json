@@ -8,6 +8,7 @@
     "red": 0.1058823529411765
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "5A6B9F4D-1BE9-48E6-AD67-15820E15D897",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,6 +29,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -73,7 +75,7 @@
       "id": "5593BA7B-741A-4BB8-921D-6BEFCFFFFBF9"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C1A7B260-0B0F-4A8D-9BC8-FC8E668F86DE"
     },
     {
@@ -90,7 +92,7 @@
     "gutterHeight": 30,
     "gutterWidth": 30,
     "guttersOutside": true,
-    "horizontalOffset": 208,
+    "horizontalOffset": 120,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
@@ -109,6 +111,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4,
-            "green": 0.3568627450980392,
-            "red": 0.3098039215686275
+            "blue": 0.7294117647058823,
+            "green": 0.6784313725490196,
+            "red": 0.6549019607843137
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -35,6 +35,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "5783D962-7E5F-47AC-BC69-034EBDEAB17D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 8
   },
   "glyphBounds": "{{0, 9}, {92, 19}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -69,6 +71,7 @@
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0C7B3437-AF49-4503-99B4-44CA1F8A0522",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,7 +96,6 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "0C7B3437-AF49-4503-99B4-44CA1F8A0522",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -101,9 +103,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.3568627450980392,
-          "red": 0.3098039215686275
+          "blue": 0.7294117647058823,
+          "green": 0.6784313725490196,
+          "red": 0.6549019607843137
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

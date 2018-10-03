@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 96,
+  "changeIdentifier": 108,
+  "clippingMaskMode": 0,
   "do_objectID": "5EB2F5E3-9D94-4102-914C-C6D1EE2776D3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "AF00FC9B-39AA-416D-A9D0-AB502B281A78",
     "height": 20,
     "width": 20,
-    "x": 120,
-    "y": 2267
+    "x": 40,
+    "y": 1654
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,12 +52,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A7C9C664-C474-4A5B-B191-0E3F5CE07CE7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B208D3B0-C2E1-4D7B-B18D-B014469F2CCF"
     }
   ],
   "name": "icons/attachment",

@@ -243,12 +243,13 @@
     ]
   },
   "meta": {
-    "appVersion": "51.3",
-    "build": 57544,
-    "version": 105
+    "appVersion": "52",
+    "build": 66869,
+    "version": 112
   },
   "pages": [
     "Page 1",
+    "Swatches",
     "Symbols"
   ]
 }

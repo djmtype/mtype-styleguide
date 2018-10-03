@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 126,
+  "changeIdentifier": 137,
+  "clippingMaskMode": 0,
   "do_objectID": "A8DE0450-C09D-4F28-980B-B195A4B795F6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +28,11 @@
     "height": 24,
     "width": 24,
     "x": 0,
-    "y": 2759
+    "y": 1966
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "D9D1B2DB-6E6C-41B7-B81E-AE7A2507254D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A19F00C0-195A-458F-BFF0-5B5BA0FE7973"
     }
   ],
   "name": "icons/youtube",

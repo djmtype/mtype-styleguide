@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "210C2148-0F0B-446F-9D9F-5156F7D89D79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DED5816F-6B44-493A-A7AC-2E619EBD73FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11BB3D15-A149-4434-9F56-D5D9109B5258",
+    "height": 283,
+    "width": 200,
+    "x": 720,
+    "y": 343
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CE53B148-41EA-4747-BD82-41A672B1865B"
+    },
+    {
+      "class": "text",
+      "id": "E0A56667-5F4D-43B2-94E3-CB6525813356"
+    },
+    {
+      "class": "text",
+      "id": "56118961-F186-4FA0-96A8-1DAE18CB11D6"
+    },
+    {
+      "class": "text",
+      "id": "53AED94E-C111-44BB-8F30-1A503B63204D"
+    },
+    {
+      "class": "shapePath",
+      "id": "21E0B5CD-8335-44C3-A0B5-06017CEBBF0E"
+    },
+    {
+      "class": "rectangle",
+      "id": "59074FB4-8904-400D-811B-9F226B680A9A"
+    }
+  ],
+  "name": "Light carmine pink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BCBD777-04B1-4CB7-A568-F9767C1CF47C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.403921568627451,
+        "green": 0.3725490196078432,
+        "hex": "EC5F67",
+        "name": "Light carmine pink",
+        "red": 0.9254901960784314
+      }
+    }
+  }
+}

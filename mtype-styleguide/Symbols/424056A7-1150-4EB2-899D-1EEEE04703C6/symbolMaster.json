@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 110,
+  "changeIdentifier": 122,
+  "clippingMaskMode": 0,
   "do_objectID": "424056A7-1150-4EB2-899D-1EEEE04703C6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "EA0F2382-8EEE-4533-85B3-5317BEA3650E",
     "height": 20,
     "width": 20,
-    "x": 97,
-    "y": 2759
+    "x": 80,
+    "y": 1654
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,15 +49,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "6501BA27-DFC1-4FD1-A5B7-0872A49E8DCD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C8A168AC-8B0B-4CB6-9590-C74F477BB180"
     }
   ],
   "name": "icons/calendar",
@@ -78,6 +76,10 @@
     "com.amoreaux.sketch-icons": {
       "colorPicker": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
       "padding": 0
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
     }
   },
   "verticalRulerData": {

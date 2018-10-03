@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 272,
+  "changeIdentifier": 321,
+  "clippingMaskMode": 0,
   "do_objectID": "3971BA0C-682A-4D26-9500-4254592A3FC9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,10 +29,11 @@
     "height": 50,
     "width": 75,
     "x": 0,
-    "y": 3434
+    "y": 2341
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,8 +53,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "B60C4BA9-576E-4D01-AF22-4B463E0D7C32"
+      "class": "rectangle",
+      "id": "A34B00CF-D7E0-4E48-8F22-18C8ED073E5D"
     }
   ],
   "name": "states/hover",

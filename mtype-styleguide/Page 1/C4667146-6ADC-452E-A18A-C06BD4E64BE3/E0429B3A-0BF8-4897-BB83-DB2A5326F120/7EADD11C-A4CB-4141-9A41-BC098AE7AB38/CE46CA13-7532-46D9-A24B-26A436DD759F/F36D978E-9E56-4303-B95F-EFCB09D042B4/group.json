@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "F36D978E-9E56-4303-B95F-EFCB09D042B4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,6 +23,7 @@
     "y": 0
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -30,8 +32,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "705EC017-7B4B-4DC8-B4DF-E77EF05FE929"
+      "class": "group",
+      "id": "B02F3636-17AD-47B9-BAF2-6CB47A9148D8"
     },
     {
       "class": "text",
@@ -42,8 +44,8 @@
       "id": "BCADD6DA-3CB7-49AF-87EA-CD24F93A8753"
     },
     {
-      "class": "symbolInstance",
-      "id": "241882FE-78AB-4D83-B075-400349DCB309"
+      "class": "group",
+      "id": "3449BEB5-9029-4927-B387-744B3BFB9BBF"
     }
   ],
   "name": "Group 5 Copy 2",

@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 108,
+  "changeIdentifier": 120,
+  "clippingMaskMode": 0,
   "do_objectID": "4741BC96-599F-46EB-9B54-5E873067C9FF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "8F81EEE2-D2D2-4E78-8296-71781D6C9F1E",
     "height": 20,
     "width": 20,
-    "x": 484,
-    "y": 2387
+    "x": 44,
+    "y": 1774
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "965DA195-C2B7-45F6-AD0D-F4CFB5DC5019"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3F05C867-C995-4242-8B1B-5C69C7B2A5A0"
     }
   ],
   "name": "icons/globe",

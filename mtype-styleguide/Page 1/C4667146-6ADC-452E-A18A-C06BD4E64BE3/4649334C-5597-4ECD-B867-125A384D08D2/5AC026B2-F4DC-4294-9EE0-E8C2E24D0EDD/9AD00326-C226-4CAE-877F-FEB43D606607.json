@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "9AD00326-C226-4CAE-877F-FEB43D606607",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "x": 315,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -33,7 +35,19 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A8A0A52E-4125-4216-8151-ABA320EF8EF9",
+      "do_objectID": "528F6665-3AEE-475E-B49F-A1AA28D6D78D",
+      "overrideName": "6EECC503-73FF-48EE-94BB-2D74A32F63B8/44C5A869-5077-443F-8F4C-7B5DC19DE51A_layerStyle",
+      "value": "2AC82428-60F0-4AAD-9210-596A00F4C233"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "386C8A08-BD77-4591-9036-62048CBFD69C",
+      "overrideName": "58748968-AA1B-4C5A-B8D8-CD7481F13523_textStyle",
+      "value": "3F0508B1-591B-4F51-B42E-FB2D4A677303"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D26D61EF-7A31-4E2E-9BC0-8657938EA713",
       "overrideName": "58748968-AA1B-4C5A-B8D8-CD7481F13523_stringValue",
       "value": "Secondary"
     }

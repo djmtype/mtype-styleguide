@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 102,
+  "changeIdentifier": 114,
+  "clippingMaskMode": 0,
   "do_objectID": "C7B8D04A-5C49-45B3-8375-26988DDC143B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "CB1C474A-4DBD-47A4-B7D0-570FAE725D39",
     "height": 20,
     "width": 20,
-    "x": 360,
-    "y": 2267
+    "x": 160,
+    "y": 1654
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "A8843C41-5896-46F1-9359-D04319FCD847"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "48A15CDC-42A7-41EF-B7CF-34D93B639A63"
     }
   ],
   "name": "icons/cheveron-outline-right",

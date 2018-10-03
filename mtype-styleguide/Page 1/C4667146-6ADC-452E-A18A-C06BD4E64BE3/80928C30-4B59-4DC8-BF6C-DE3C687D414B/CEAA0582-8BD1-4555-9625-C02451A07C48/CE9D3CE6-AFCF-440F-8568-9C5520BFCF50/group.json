@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "CE9D3CE6-AFCF-440F-8568-9C5520BFCF50",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 80
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -32,8 +34,8 @@
       "id": "189FFE10-93DE-4808-9247-820F2CB968F9"
     },
     {
-      "class": "symbolInstance",
-      "id": "E22F406F-4A46-49FC-9144-4392977B933D"
+      "class": "group",
+      "id": "E7852AF9-72FA-4A4D-BE98-F913CC9077EC"
     }
   ],
   "name": "Stacked Group 3",

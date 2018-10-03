@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF9B3145-457A-419D-AFBE-B62A83BFA2FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51211DBA-5513-4FB2-9D77-D1ECBF288723",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CF6CA6C-80E8-40EE-A932-C7BC2505B458",
+    "height": 283,
+    "width": 200,
+    "x": 260,
+    "y": 343
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B7D93E32-D612-453A-85EF-5EB3803626C4"
+    },
+    {
+      "class": "text",
+      "id": "1790A7B6-3977-4392-9EC5-57558F44F40A"
+    },
+    {
+      "class": "text",
+      "id": "B178F624-7E24-49F3-93BB-19500126BA58"
+    },
+    {
+      "class": "text",
+      "id": "5943D0B6-C6FF-4447-B5A4-A8AA50242B09"
+    },
+    {
+      "class": "shapePath",
+      "id": "2E15B3CB-E5D8-49EB-8D82-D50CCB75BB20"
+    },
+    {
+      "class": "rectangle",
+      "id": "847701CD-19B2-428C-90EF-80AF9AC95766"
+    }
+  ],
+  "name": "Blue Gray",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39F4297A-EF45-4E68-B44D-52D0EDAF3268",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.6000000000000001,
+        "hex": "6699CC",
+        "name": "Blue Gray",
+        "red": 0.4
+      }
+    }
+  }
+}

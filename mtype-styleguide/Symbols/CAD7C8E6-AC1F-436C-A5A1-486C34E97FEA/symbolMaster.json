@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 115,
+  "changeIdentifier": 289,
+  "clippingMaskMode": 0,
   "do_objectID": "CAD7C8E6-AC1F-436C-A5A1-486C34E97FEA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "EECFE1D3-F035-42C1-8DF2-1C1BBE48DE86",
     "height": 20,
     "width": 20,
-    "x": 124,
-    "y": 2759
+    "x": 44,
+    "y": 1966
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "C8DB1105-BBE6-40F4-9597-0BA24FD7F719"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "81303A0F-ED0C-49C3-9B13-C64711A87CED"
     }
   ],
   "name": "icons/zoom-in",

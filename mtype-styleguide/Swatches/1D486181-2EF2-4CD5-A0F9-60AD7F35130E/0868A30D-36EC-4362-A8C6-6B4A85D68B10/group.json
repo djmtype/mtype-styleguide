@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0868A30D-36EC-4362-A8C6-6B4A85D68B10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC409E3F-5043-4152-9D64-2ED53EF0D100",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C022381-A2FC-4E53-A7E4-400F423B58B1",
+    "height": 283,
+    "width": 200,
+    "x": 30,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "18CC72E0-13BC-4854-85D2-351D0E679D88"
+    },
+    {
+      "class": "text",
+      "id": "69C2C69C-0B24-4E6B-950A-4081A337B79B"
+    },
+    {
+      "class": "text",
+      "id": "D7616E24-5342-4262-8732-C708AC61109C"
+    },
+    {
+      "class": "text",
+      "id": "9EBC93EB-A890-44B0-9192-23EF2349073A"
+    },
+    {
+      "class": "shapePath",
+      "id": "BFA3AEAF-C39D-40AE-8418-470F1D0A5FCC"
+    },
+    {
+      "class": "rectangle",
+      "id": "A65B9DB0-FE0A-4BB2-9569-3E78F326BBA8"
+    }
+  ],
+  "name": "Atomic tangerine",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF6BF2F3-95D2-435C-9522-A37764AB3230",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.3411764705882353,
+        "green": 0.568627450980392,
+        "hex": "F99157",
+        "name": "Atomic tangerine",
+        "red": 0.9764705882352941
+      }
+    }
+  }
+}

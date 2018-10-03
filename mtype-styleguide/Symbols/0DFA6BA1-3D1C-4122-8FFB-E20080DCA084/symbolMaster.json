@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 98,
+  "changeIdentifier": 108,
+  "clippingMaskMode": 0,
   "do_objectID": "0DFA6BA1-3D1C-4122-8FFB-E20080DCA084",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +28,11 @@
     "height": 20,
     "width": 20,
     "x": 120,
-    "y": 2387
+    "y": 1714
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "93546FEF-2C70-4816-BDD3-C5C0BAA4CB3F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CF20BDD5-EC06-41DB-AB47-6BD0500A2762"
     }
   ],
   "name": "icons/envelope",

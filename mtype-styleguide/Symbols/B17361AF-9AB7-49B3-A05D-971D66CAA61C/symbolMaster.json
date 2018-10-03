@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 98,
+  "changeIdentifier": 109,
+  "clippingMaskMode": 0,
   "do_objectID": "B17361AF-9AB7-49B3-A05D-971D66CAA61C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "E9F613ED-0FCB-4FD3-8E09-A1CF4F2CEB30",
     "height": 20,
     "width": 20,
-    "x": 368,
-    "y": 2511
+    "x": 44,
+    "y": 1838
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,15 +49,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "FE82CA46-2A89-4014-A7B2-05B223A92509"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D1730206-2C99-42D9-8A5C-D4C6A38B3B0B"
     }
   ],
   "name": "icons/menu",

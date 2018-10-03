@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "A02820DB-8E29-405D-A74E-4A2D554E04A4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,6 +23,7 @@
     "y": 270
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -30,8 +32,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A4C86D97-8F70-48B5-AF61-8E18DFABD986"
+      "class": "group",
+      "id": "9C93DEB7-1FC4-42E9-8DAF-8F1B25DCAB4D"
     },
     {
       "class": "text",
@@ -42,8 +44,8 @@
       "id": "85F8C7EC-F695-4DBE-99B9-92630EE68BBA"
     },
     {
-      "class": "symbolInstance",
-      "id": "96C0ED1F-3253-4887-90B8-EC1C10403285"
+      "class": "group",
+      "id": "99E0D792-925C-4D65-9CB7-2B0B5B886691"
     }
   ],
   "name": "Menu",

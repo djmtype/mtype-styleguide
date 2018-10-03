@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D411EFE9-1484-41C3-8ECE-E55E23EDCA48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B92CE97-2C24-4B01-A918-955942C48BCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17C236E5-7A3D-4C76-B264-8DFB5ECA4E69",
+    "height": 283,
+    "width": 200,
+    "x": 260,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EC3DE3BB-065B-455F-B3E0-1AB2BD759BD5"
+    },
+    {
+      "class": "text",
+      "id": "DC40742C-9853-4ECC-8C47-9D9AD0FA1477"
+    },
+    {
+      "class": "text",
+      "id": "35B5F062-215D-4A8B-BA77-055D0C45C332"
+    },
+    {
+      "class": "text",
+      "id": "9F8F3544-6B15-40B7-B534-7882358042D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "760E08ED-8CF1-4161-AE0A-2257BA19345D"
+    },
+    {
+      "class": "rectangle",
+      "id": "0A91AD3E-9A50-4BC5-BE0C-4001BD67045E"
+    }
+  ],
+  "name": "White smoke",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C02260EC-4E36-4574-A9E8-65C0ED4B7C04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "hex": "F5F5F5",
+        "name": "White smoke",
+        "red": 0.9607843137254902
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67A88AF0-9F7B-446F-A289-C2BD998F3D67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF883549-7B77-46C4-A1F9-2F915B7B7157",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B82DDB3-64FD-48CE-AA48-B680A234E5AD",
+    "height": 283,
+    "width": 200,
+    "x": 260,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F03B9ECD-756A-4AEB-95E0-C9F1C188C2EB"
+    },
+    {
+      "class": "text",
+      "id": "9BF2FE91-1522-4A79-8C3A-331FA600A850"
+    },
+    {
+      "class": "text",
+      "id": "DD6C8EB3-AB19-4AA4-B9BA-E7E72CEECBE8"
+    },
+    {
+      "class": "text",
+      "id": "091E3483-83AC-4A8D-AC81-0A62AFA69D48"
+    },
+    {
+      "class": "shapePath",
+      "id": "6124FFC6-371B-4935-BCC5-2BF6256977C0"
+    },
+    {
+      "class": "rectangle",
+      "id": "A49F80EB-2303-4CBB-8F09-5AE3346DAFB6"
+    }
+  ],
+  "name": "Cadet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B5B5CAC-61D7-4A74-932A-AB810CA398D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.3568627450980392,
+        "hex": "4F5B66",
+        "name": "Cadet",
+        "red": 0.3098039215686275
+      }
+    }
+  }
+}

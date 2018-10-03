@@ -43,6 +43,7 @@
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5F5CB3C4-AC3E-464B-825E-D4A3AB15C9C3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +83,6 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "5F5CB3C4-AC3E-464B-825E-D4A3AB15C9C3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

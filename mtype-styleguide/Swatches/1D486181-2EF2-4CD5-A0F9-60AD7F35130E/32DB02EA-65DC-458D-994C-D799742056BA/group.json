@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "32DB02EA-65DC-458D-994C-D799742056BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95620F51-2AF0-4572-A539-C21116FD25D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0AE50163-E7D8-47AF-B5CE-B14D55585330",
+    "height": 283,
+    "width": 200,
+    "x": 30,
+    "y": 343
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "571636CF-81D7-4517-BC2D-8C6AB43E2426"
+    },
+    {
+      "class": "text",
+      "id": "6E3EAF6B-23C9-4CFC-808C-F98A91BA0313"
+    },
+    {
+      "class": "text",
+      "id": "692B62CD-222E-4F10-A00F-975F52BA4E03"
+    },
+    {
+      "class": "text",
+      "id": "4F50797B-8794-4A0C-A404-0B4BBA2E0AD5"
+    },
+    {
+      "class": "shapePath",
+      "id": "F675BB91-B70A-45D0-857F-026E6A39F6C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "78A07BFB-8AFB-45B1-A8A9-FF767C0DBEBC"
+    }
+  ],
+  "name": "Eton blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EEE3505-E537-4E3E-B60B-916A72C43F1E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.5803921568627451,
+        "green": 0.7803921568627451,
+        "hex": "99C794",
+        "name": "Eton blue",
+        "red": 0.6
+      }
+    }
+  }
+}

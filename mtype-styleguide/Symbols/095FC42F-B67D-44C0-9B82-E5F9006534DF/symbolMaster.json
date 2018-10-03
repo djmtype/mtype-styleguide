@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 531,
+  "changeIdentifier": 545,
+  "clippingMaskMode": 0,
   "do_objectID": "095FC42F-B67D-44C0-9B82-E5F9006534DF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,11 +28,12 @@
     "do_objectID": "2006956F-332E-4928-98AC-68C96CC8766E",
     "height": 50,
     "width": 75,
-    "x": 175,
-    "y": 3434
+    "x": 95,
+    "y": 2341
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,8 +53,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "37586EEA-1503-4919-BC68-8950EE0AA1D3"
+      "class": "rectangle",
+      "id": "13C1453B-D2B3-40EC-B52E-DC292E362597"
     }
   ],
   "name": "states/pressed",

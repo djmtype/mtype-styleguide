@@ -9,6 +9,7 @@
     "red": 0.1058823529411765
   },
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "587F098D-02D4-4E47-815A-FD372BB3791F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +31,8 @@
     "y": 910
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,15 +51,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3D577F8B-E1BE-4CEF-95B3-EACD117D2714"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E779A27C-B7C9-4015-A9AD-05761043DBB7"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F68DBEAB-8C50-4345-8618-C0DAF2CC7344"
     },
     {
@@ -81,7 +83,7 @@
       "id": "FFEC4FCE-D75C-4151-84CC-1D72FD111160"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8731BE35-BA62-4AAB-9485-1143855A0537"
     },
     {
@@ -98,7 +100,7 @@
     "gutterHeight": 30,
     "gutterWidth": 30,
     "guttersOutside": true,
-    "horizontalOffset": 208,
+    "horizontalOffset": 120,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,

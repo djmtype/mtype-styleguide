@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "06B80735-0EF6-41BB-AE7C-14C9994AC082",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,8 +30,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "754DF6A4-FB18-4C56-A3D7-679BBAE9700B"
+      "class": "group",
+      "id": "5B298ACB-E627-49DA-BABC-3F7EEECB908D"
     },
     {
       "class": "text",
@@ -40,8 +42,8 @@
       "id": "740DD949-D0FA-4A1C-9378-8AC5B3CDA295"
     },
     {
-      "class": "symbolInstance",
-      "id": "2CB07271-F44C-4F56-85A2-C124AEE2EFF9"
+      "class": "group",
+      "id": "CAFD7DF7-E688-4BC1-ADB5-779B9B67A6A5"
     }
   ],
   "name": "Group 10",

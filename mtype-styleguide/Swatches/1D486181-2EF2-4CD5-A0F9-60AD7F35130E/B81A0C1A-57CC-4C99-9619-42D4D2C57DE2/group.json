@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B81A0C1A-57CC-4C99-9619-42D4D2C57DE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "242993F1-34B0-4186-B1F1-8482C8A363BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C25DA092-EE7E-4FE3-9C93-C7D513ACFDB5",
+    "height": 283,
+    "width": 200,
+    "x": 490,
+    "y": 343
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8760643A-4DC3-4931-9DE5-0A9078778D1B"
+    },
+    {
+      "class": "text",
+      "id": "55542072-2C5E-4B20-BC6F-622CA4CC6671"
+    },
+    {
+      "class": "text",
+      "id": "07201A3C-93F2-483A-A5AB-924DCCEC2CA9"
+    },
+    {
+      "class": "text",
+      "id": "621FF242-1EB0-48BE-81B5-8D8393D8ACD7"
+    },
+    {
+      "class": "shapePath",
+      "id": "83BE8D72-35D2-45C0-A039-47500822670A"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2F1FA7C-64E1-46E2-9537-EE8930EA1464"
+    }
+  ],
+  "name": "Pastel violet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9C90196-9FB8-4E2D-B90D-AB1685178801",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.7725490196078432,
+        "green": 0.5803921568627451,
+        "hex": "C594C5",
+        "name": "Pastel violet",
+        "red": 0.7725490196078432
+      }
+    }
+  }
+}

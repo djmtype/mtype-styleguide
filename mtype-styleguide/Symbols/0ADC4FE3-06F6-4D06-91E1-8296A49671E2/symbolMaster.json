@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 139,
+  "changeIdentifier": 151,
+  "clippingMaskMode": 0,
   "do_objectID": "0ADC4FE3-06F6-4D06-91E1-8296A49671E2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "A14BBDF1-6A82-46DE-AE77-A42C3ECBDA1C",
     "height": 24,
     "width": 24,
-    "x": 244,
-    "y": 2511
+    "x": 0,
+    "y": 1838
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "580E3586-97C2-404F-954E-4028E9C4AF76"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "26F163B1-398B-4A2C-AE2C-2541D24A5B84"
     }
   ],
   "name": "icons/linkedin-in",

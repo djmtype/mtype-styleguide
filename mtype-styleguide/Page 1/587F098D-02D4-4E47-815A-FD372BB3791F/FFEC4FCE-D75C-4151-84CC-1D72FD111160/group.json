@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "FFEC4FCE-D75C-4151-84CC-1D72FD111160",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,6 +23,7 @@
     "y": 270
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -30,7 +32,7 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "20156582-34DB-4F33-A38E-62E4844DC617"
     },
     {
@@ -42,8 +44,8 @@
       "id": "708A89B3-1610-4598-ACC2-552CA604D0FE"
     },
     {
-      "class": "symbolInstance",
-      "id": "71684995-45B9-41A6-B3DD-C87D399E5740"
+      "class": "group",
+      "id": "33324BF7-FB95-4ACE-9865-0EBF4F1108B3"
     }
   ],
   "name": "Menu",

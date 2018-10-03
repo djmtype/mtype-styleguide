@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "3FE9CD2F-E8A4-4D9C-B28A-DF5551DBE921",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +20,7 @@
     "x": 0,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -40,6 +42,12 @@
       "do_objectID": "B9C70283-8D2C-4577-8B5F-C4402709449D",
       "overrideName": "331CDACD-B133-426F-A58F-602255581B6C_symbolID",
       "value": "FA6FA7EC-FF68-4449-9B12-BE533B32AE16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35758451-C6E0-49C3-A9A7-9510E204EE5E",
+      "overrideName": "44C5A869-5077-443F-8F4C-7B5DC19DE51A_layerStyle",
+      "value": "D945F36E-8439-4EB1-8829-2A795D2D4A4C"
     }
   ],
   "resizingConstraint": 18,

@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DD6D0AF-E449-4916-9EF8-53B11C97D70E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D026D88-30D7-456E-95C0-3088358F919E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6EA0C79-0DF5-4B6A-8196-3750DDE0B143",
+    "height": 283,
+    "width": 200,
+    "x": 30,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5D99B202-3579-4E42-975A-66C0CB05993B"
+    },
+    {
+      "class": "text",
+      "id": "0235DBD3-2B18-4F8D-8F23-0D14990C8509"
+    },
+    {
+      "class": "text",
+      "id": "9ABA7213-D23D-48AE-AC00-263348E47513"
+    },
+    {
+      "class": "text",
+      "id": "18698F81-48CD-46E1-8E73-E617966C5455"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A146F76-5297-4EFE-ADA2-4AD208584EEC"
+    },
+    {
+      "class": "rectangle",
+      "id": "ADC50E5B-073A-43CE-9F0B-2CF484D28DC8"
+    }
+  ],
+  "name": "Medium jungle green",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A14B023-509D-4D5E-854D-E7BD17DDA5D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.1686274509803922,
+        "hex": "1B2B34",
+        "name": "Medium jungle green",
+        "red": 0.1058823529411765
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B703AF1D-A25F-4D27-9B39-90DDEF560719",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE5E35DB-70BA-487C-A42D-81D676727517",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E70E4455-44AE-4A73-8F9C-79B0E7B07BFB",
+    "height": 283,
+    "width": 200,
+    "x": 490,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C3419D19-61E0-4CD8-963B-3D4ADEE9D816"
+    },
+    {
+      "class": "text",
+      "id": "E343E597-A580-45D9-8974-08FB125BE3AF"
+    },
+    {
+      "class": "text",
+      "id": "AF66C4F6-714E-4A4A-A5F8-B99F5AEB87BA"
+    },
+    {
+      "class": "text",
+      "id": "0C6AB934-872D-43F2-9E41-AA685D62327F"
+    },
+    {
+      "class": "shapePath",
+      "id": "0BC14126-7DFA-44A4-B9AE-021BD4D6EC9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "832E8B3B-8FE2-4645-BE6E-7302515884FC"
+    }
+  ],
+  "name": "Moonstone blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "873CF55C-8864-4C9D-A7F1-609129F3115F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.7019607843137254,
+        "green": 0.7019607843137254,
+        "hex": "5FB3B3",
+        "name": "Moonstone blue",
+        "red": 0.3725490196078431
+      }
+    }
+  }
+}

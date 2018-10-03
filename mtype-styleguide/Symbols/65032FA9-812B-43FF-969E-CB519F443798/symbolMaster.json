@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 103,
+  "changeIdentifier": 114,
+  "clippingMaskMode": 0,
   "do_objectID": "65032FA9-812B-43FF-969E-CB519F443798",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +28,11 @@
     "height": 20,
     "width": 20,
     "x": 0,
-    "y": 2267
+    "y": 1654
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,12 +52,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "D0CAE264-F19A-4B32-A4ED-175158BA1A26"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "77F9952B-1958-4606-B926-47FA6E6FC686"
     }
   ],
   "name": "icons/arrow-thin-right",
@@ -75,9 +73,6 @@
   },
   "symbolID": "12DF0FFE-3C02-425B-8F78-5208E4E3709E",
   "userInfo": {
-    "com.amoreaux.sketch-icons": {
-      "color": "FFBA6D7B-9F51-4A0B-960E-23DADA6F591D"
-    },
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }

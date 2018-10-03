@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "51FB7F3B-B060-4F03-8CB9-104589CA2EDA",
-  "name": "type/label",
+  "name": "type/label-lite",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -24,7 +24,6 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "51FB7F3B-B060-4F03-8CB9-104589CA2EDA",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 98,
+  "changeIdentifier": 110,
+  "clippingMaskMode": 0,
   "do_objectID": "9E449042-6414-42E2-9F7B-175696776436",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "E656DDBE-13C6-4920-AABB-54207ECE2445",
     "height": 20,
     "width": 20,
-    "x": 240,
-    "y": 2635
+    "x": 40,
+    "y": 1902
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,12 +52,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "7EBDE477-7799-49ED-A086-0247F93E58CA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7385904F-BD42-493B-9A80-A8814E23224E"
     }
   ],
   "name": "icons/star-full",

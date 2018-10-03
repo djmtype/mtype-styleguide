@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "0757D7EB-D36E-4613-866D-E00C2E6A2544",
-  "name": "type/label-dark",
+  "name": "type/label-default",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -24,7 +24,6 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "0757D7EB-D36E-4613-866D-E00C2E6A2544",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

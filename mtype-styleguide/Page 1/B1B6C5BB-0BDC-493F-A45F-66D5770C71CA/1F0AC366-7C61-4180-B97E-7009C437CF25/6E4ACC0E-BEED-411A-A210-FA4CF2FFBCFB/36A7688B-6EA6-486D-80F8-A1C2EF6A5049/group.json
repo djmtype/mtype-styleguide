@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "36A7688B-6EA6-486D-80F8-A1C2EF6A5049",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 758
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,8 +30,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "8F4D0C98-51BA-4B33-AE89-0853998FDB5C"
+      "class": "rectangle",
+      "id": "B27899B6-B7C5-48ED-85E8-917B61838D70"
     },
     {
       "class": "text",
@@ -52,6 +54,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 510,
+            "enabled": 1,
+            "modelID": "constraint_28b9fa0e-9645-42d8-95f8-5c0e82ae3d0d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 970
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9beb0251-5af3-4414-8e95-5cf5996baa46",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }

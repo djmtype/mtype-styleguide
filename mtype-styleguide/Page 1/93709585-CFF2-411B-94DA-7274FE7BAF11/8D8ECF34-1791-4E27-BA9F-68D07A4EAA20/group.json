@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "8D8ECF34-1791-4E27-BA9F-68D07A4EAA20",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 690
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -28,8 +30,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "0AF29F2F-FF2C-46BD-91EE-23CD439E0C7E"
+      "class": "group",
+      "id": "08CF8BAF-9929-43E7-ACB5-C26623A3762F"
     },
     {
       "class": "text",

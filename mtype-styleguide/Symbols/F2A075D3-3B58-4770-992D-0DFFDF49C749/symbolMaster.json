@@ -8,7 +8,8 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 124,
+  "changeIdentifier": 134,
+  "clippingMaskMode": 0,
   "do_objectID": "F2A075D3-3B58-4770-992D-0DFFDF49C749",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +27,12 @@
     "do_objectID": "F62BE133-E006-462D-8D8C-001687B36C0E",
     "height": 20,
     "width": 20,
-    "x": 240,
-    "y": 2387
+    "x": 160,
+    "y": 1714
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "64BA55AF-7EEB-471F-BDA5-163BC8148360"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FEC131EC-85F5-4797-8438-1BD05714A433"
     }
   ],
   "name": "icons/exclamation-outline",
