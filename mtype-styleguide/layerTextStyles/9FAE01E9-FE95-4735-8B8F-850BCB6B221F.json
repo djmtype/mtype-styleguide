@@ -1,0 +1,58 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "9FAE01E9-FE95-4735-8B8F-850BCB6B221F",
+  "name": "type/link",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3882352941176472,
+          "green": 0.7843137254901961,
+          "red": 0.9803921568627451
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "IBMPlexSans",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
+        },
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

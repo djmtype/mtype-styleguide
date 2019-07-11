@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 444,
+  "changeIdentifier": 492,
   "clippingMaskMode": 0,
   "do_objectID": "F020DAD7-6692-4AFF-8700-0C200AA3302B",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "height": 49,
     "width": 141,
     "x": 280,
-    "y": 357
+    "y": 655
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,18 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E6282916-1EF9-46B8-9B99-1CC68BEE5920"
-    },
-    {
-      "class": "text",
-      "id": "10307313-38B4-44FD-BE0D-7F91E7477F29"
+      "class": "group",
+      "id": "8F75972D-691A-4E89-947D-ED68CBB4C0AA"
     }
   ],
-  "name": "buttons/primary/medium/label",
+  "name": "buttons/secondary/medium/label",
   "nameIsFixed": false,
   "resizesContent": true,
   "resizingConstraint": 63,

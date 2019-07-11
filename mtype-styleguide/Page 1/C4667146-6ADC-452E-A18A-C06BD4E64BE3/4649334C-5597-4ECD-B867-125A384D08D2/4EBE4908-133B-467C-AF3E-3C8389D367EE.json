@@ -49,7 +49,13 @@
       "_class": "overrideValue",
       "do_objectID": "F6409799-ABAA-461B-A2D3-6F45181F31A7",
       "overrideName": "E6282916-1EF9-46B8-9B99-1CC68BEE5920/D9D08A83-3895-48E6-8FAB-B44319EEE3E2_symbolID",
-      "value": "4A838B0B-E5A7-4A5D-9885-CC031E3C0158"
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D839A46-1D2C-4EE6-A58E-747DF98CAB95",
+      "overrideName": "10307313-38B4-44FD-BE0D-7F91E7477F29_textStyle",
+      "value": "3F0508B1-591B-4F51-B42E-FB2D4A677303"
     }
   ],
   "resizingConstraint": 63,

@@ -28,7 +28,7 @@
     "y": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -93,7 +93,7 @@
     "gutterWidth": 30,
     "guttersOutside": true,
     "horizontalOffset": 120,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1200

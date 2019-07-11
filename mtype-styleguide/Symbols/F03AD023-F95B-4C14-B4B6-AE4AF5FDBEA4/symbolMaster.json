@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 35,
+  "changeIdentifier": 2630,
   "clippingMaskMode": 0,
   "do_objectID": "F03AD023-F95B-4C14-B4B6-AE4AF5FDBEA4",
   "exportOptions": {
@@ -23,12 +23,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 91,
+    "height": 92,
     "width": 24,
-    "x": 0,
-    "y": 1374
+    "x": -26,
+    "y": 994
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "9E813021-2A19-4424-9662-AB885975BD35"
+      "id": "F461EA73-45F4-4D57-AEEB-ADF056E98582"
     }
   ],
   "name": "headings/category",

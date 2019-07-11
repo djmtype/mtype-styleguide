@@ -41,9 +41,21 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E1CC788B-75A6-4903-8977-08E62DB7E535",
-      "overrideName": "9648DAF4-7216-4319-8C2C-43F0843ADA90/5FAFF012-F311-41A5-B1AB-15C01A0CBC10_symbolID",
-      "value": "4A838B0B-E5A7-4A5D-9885-CC031E3C0158"
+      "do_objectID": "919B49F8-C6D6-4689-BFF7-40D08B8080FA",
+      "overrideName": "929BA459-33F1-4E0E-B54E-8E07F6EBB8E2_textStyle",
+      "value": "3F0508B1-591B-4F51-B42E-FB2D4A677303"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B26669B4-AF93-46A2-A12E-738D039D7022",
+      "overrideName": "6102C263-30D6-489E-A785-0F7AE8C32095/D0CAE264-F19A-4B32-A4ED-175158BA1A26_layerStyle",
+      "value": "A7BA9E5B-C6E8-4D15-AE29-6803A2BD36BC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "609D8DFE-4276-42B8-82C1-6C03AAC0AA23",
+      "overrideName": "9648DAF4-7216-4319-8C2C-43F0843ADA90/44C5A869-5077-443F-8F4C-7B5DC19DE51A_layerStyle",
+      "value": "2AC82428-60F0-4AAD-9210-596A00F4C233"
     }
   ],
   "resizingConstraint": 63,

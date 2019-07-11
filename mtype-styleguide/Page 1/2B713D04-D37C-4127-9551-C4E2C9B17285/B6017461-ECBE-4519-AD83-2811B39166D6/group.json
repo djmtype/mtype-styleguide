@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 270,
+    "height": 271,
     "width": 270,
     "x": 135,
-    "y": 840
+    "y": 839
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -36,10 +36,6 @@
     {
       "class": "bitmap",
       "id": "018C81CA-493C-4931-9FC9-1099C7427BC4"
-    },
-    {
-      "class": "group",
-      "id": "3EB1E0D1-BD1D-4CE7-BB71-8B2D2A8958F7"
     },
     {
       "class": "symbolInstance",

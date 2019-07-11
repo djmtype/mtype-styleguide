@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "B986AE85-18E6-461C-9130-E8CF6A2CDF84",
     "height": 49,
-    "width": 172,
-    "x": 315,
+    "width": 150,
+    "x": 155,
     "y": 0
   },
   "hasClippingMask": false,
@@ -55,7 +55,7 @@
       "_class": "overrideValue",
       "do_objectID": "32C5FDFF-7FC6-4D7A-B031-5E4ADE2B9EDA",
       "overrideName": "58748968-AA1B-4C5A-B8D8-CD7481F13523_stringValue",
-      "value": "Secondary"
+      "value": "Primary"
     }
   ],
   "resizingConstraint": 63,
@@ -75,6 +75,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "size.update": 1541172978.529081
       }
     }
   },

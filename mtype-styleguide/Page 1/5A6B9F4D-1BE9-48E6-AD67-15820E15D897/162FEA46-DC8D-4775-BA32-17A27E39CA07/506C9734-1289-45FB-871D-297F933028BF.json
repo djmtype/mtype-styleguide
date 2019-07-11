@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 91,
+    "height": 92,
     "width": 24,
     "x": 227,
-    "y": 0
+    "y": -1
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,6 +35,12 @@
       "_class": "overrideValue",
       "do_objectID": "EB36489A-F368-4407-943D-C1D3EFD06072",
       "overrideName": "C0DE750C-C4C7-4F2C-A9DA-C49FDF591000_stringValue",
+      "value": "Playlists"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D9E21CF-BA66-4F4F-9504-BA99E34DA92B",
+      "overrideName": "2D038789-A456-4A17-A374-6D1B97FFDB00_stringValue",
       "value": "Playlists"
     }
   ],
@@ -54,6 +60,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "size.update": 1541174644.510859
       }
     }
   },

@@ -27,6 +27,12 @@
     "x": 0,
     "y": 0
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -44,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -73,6 +79,18 @@
     {
       "class": "symbolInstance",
       "id": "C408F7A5-4F00-4EC1-A102-AC10CAEB5064"
+    },
+    {
+      "class": "text",
+      "id": "DEFA36B8-01DE-4F96-8FE7-D1643257E2A1"
+    },
+    {
+      "class": "text",
+      "id": "1FB96C59-ABB7-4459-AF06-E8E082746767"
+    },
+    {
+      "class": "text",
+      "id": "A9996C5E-A17B-491D-A5AA-669A17C3D669"
     }
   ],
   "layout": {
@@ -103,6 +121,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

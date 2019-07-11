@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 360,
+    "height": 361,
     "width": 570,
     "x": 235,
-    "y": 1760
+    "y": 1759
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -46,8 +46,8 @@
       "id": "7F139452-45B1-4CED-A3B2-DBF4869568F2"
     },
     {
-      "class": "group",
-      "id": "3194D5E3-BFC8-4349-908B-2AE436A00F42"
+      "class": "symbolInstance",
+      "id": "7E0B3FC5-FC8D-4375-83ED-D303643D57CF"
     }
   ],
   "name": "Card",

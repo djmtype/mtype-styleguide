@@ -34,16 +34,16 @@
       "id": "91C296C7-3DAE-4379-A1F6-EDD13737070D"
     },
     {
+      "class": "symbolInstance",
+      "id": "C2383091-C1A2-4B92-B4C5-3E07B354A32D"
+    },
+    {
       "class": "group",
       "id": "6C3FEF51-17F0-4C45-BF7B-2EA149D8FAF3"
     },
     {
       "class": "rectangle",
       "id": "6C735E16-31A1-4737-9E7B-856DBDDBBC13"
-    },
-    {
-      "class": "group",
-      "id": "ECA97519-53ED-46FB-833E-CFECE2D88299"
     }
   ],
   "name": "Features",

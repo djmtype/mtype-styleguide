@@ -38,6 +38,12 @@
       "do_objectID": "F719932E-CA0A-45B5-856E-D8D14DCDA83A",
       "overrideName": "5FAFF012-F311-41A5-B1AB-15C01A0CBC10_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F19E9409-0097-4FAE-A243-DFD986650B3C",
+      "overrideName": "44C5A869-5077-443F-8F4C-7B5DC19DE51A_layerStyle",
+      "value": "153258A2-4B65-4E16-B7AB-942E7C82F519"
     }
   ],
   "resizingConstraint": 18,

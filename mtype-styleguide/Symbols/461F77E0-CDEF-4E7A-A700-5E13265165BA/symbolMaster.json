@@ -8,7 +8,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 128,
+  "changeIdentifier": 130,
   "clippingMaskMode": 0,
   "do_objectID": "461F77E0-CDEF-4E7A-A700-5E13265165BA",
   "exportOptions": {
@@ -27,8 +27,8 @@
     "do_objectID": "15BC62F9-F7EA-4484-8F0D-77FB1D405870",
     "height": 20,
     "width": 20,
-    "x": 0,
-    "y": 1714
+    "x": 200,
+    "y": 1234
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
